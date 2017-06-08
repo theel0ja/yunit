@@ -1,0 +1,1410 @@
+# Italian translation for unity
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the unity package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-03-21 10:58+0000\n"
+"PO-Revision-Date: 2017-02-14 10:03+0000\n"
+"Last-Translator: Milo Casagrande <milo.casagrande@gmail.com>\n"
+"Language-Team: Italian <it@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-03-24 06:13+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+
+#: plugins/LightDM/Greeter.cpp:188
+msgid "Password: "
+msgstr "Password: "
+
+#: plugins/LightDM/Greeter.cpp:203
+msgid "Username"
+msgstr "Nome utente"
+
+#: plugins/LightDM/Greeter.cpp:242
+msgid "Failed to authenticate"
+msgstr "Autenticazione non riuscita"
+
+#: plugins/LightDM/Greeter.cpp:244
+msgid "Invalid password, please try again"
+msgstr "Password non valida, riprovare"
+
+#: plugins/LightDM/Greeter.cpp:254
+msgid "Log In"
+msgstr "Accedi"
+
+#: plugins/LightDM/Greeter.cpp:254
+msgid "Retry"
+msgstr "Riprova"
+
+#: plugins/LightDM/UsersModel.cpp:152
+msgid "Login"
+msgstr "Accesso"
+
+#: plugins/LightDM/UsersModel.cpp:160
+msgid "Guest Session"
+msgstr "Sessione ospite"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:49
+#: plugins/Unity/Launcher/launcheritem.cpp:123
+msgid "Pin shortcut"
+msgstr "Blocca scorciatoia"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:55
+msgid "Quit"
+msgstr "Esci"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:123
+msgid "Unpin shortcut"
+msgstr "Sblocca scorciatoia"
+
+#: qml/Components/Dialogs.qml:176
+msgctxt "Title: Lock/Log out dialog"
+msgid "Log out"
+msgstr "Termina sessione"
+
+#: qml/Components/Dialogs.qml:177
+msgid "Are you sure you want to log out?"
+msgstr "Terminare veramente la sessione?"
+
+#: qml/Components/Dialogs.qml:180
+msgctxt "Button: Lock the system"
+msgid "Lock"
+msgstr "Blocca"
+
+#: qml/Components/Dialogs.qml:191
+msgctxt "Button: Log out from the system"
+msgid "Log Out"
+msgstr "Termina sessione"
+
+#: qml/Components/Dialogs.qml:199 qml/Components/Dialogs.qml:264
+#: qml/Dash/DashPageHeader.qml:324 qml/Greeter/NarrowView.qml:222
+#: qml/Wizard/Pages/passcode-confirm.qml:32
+#: qml/Wizard/Pages/passcode-set.qml:32
+msgid "Cancel"
+msgstr "Annulla"
+
+#: qml/Components/Dialogs.qml:211
+msgctxt "Title: Reboot dialog"
+msgid "Reboot"
+msgstr "Riavvia"
+
+#: qml/Components/Dialogs.qml:212
+msgid "Are you sure you want to reboot?"
+msgstr "Riavviare veramente il dispositivo?"
+
+#: qml/Components/Dialogs.qml:215
+msgid "No"
+msgstr "No"
+
+#: qml/Components/Dialogs.qml:223
+msgid "Yes"
+msgstr "Sì"
+
+#: qml/Components/Dialogs.qml:239
+msgctxt "Title: Power off/Restart dialog"
+msgid "Power"
+msgstr "Alimentazione"
+
+#: qml/Components/Dialogs.qml:240
+msgid ""
+"Are you sure you would like\n"
+"to power off?"
+msgstr ""
+"Spegnere veramente\n"
+"il dispositivo?"
+
+#: qml/Components/Dialogs.qml:244
+msgctxt "Button: Power off the system"
+msgid "Power off"
+msgstr "Spegni"
+
+#: qml/Components/Dialogs.qml:255
+msgctxt "Button: Restart the system"
+msgid "Restart"
+msgstr "Riavvia"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:41
+msgid "Keyboard Shortcuts"
+msgstr "Scorciatoie da tastiera"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:55
+msgid "Unity 8"
+msgstr "Unity 8"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:62
+msgid "PrtScr"
+msgstr "Stamp"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:67
+msgid "Takes a screenshot."
+msgstr "Cattura una schermata"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:75
+msgid "Alt + PrtScr"
+msgstr "Alt + Stamp"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:80
+msgid "Takes a screenshot of the current window."
+msgstr "Cattura una schermata della finestra corrente"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:88
+msgid "Super + Space"
+msgstr "Super + Spazio"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:93
+msgid "Switches to next keyboard layout."
+msgstr "Passa alla disposizione di tastiera successiva"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:101
+msgid "Super + Shift + Space"
+msgstr "Super + Maiusc + Spazio"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:106
+msgid "Switches to previous keyboard layout."
+msgstr "Passa alla disposizione di tastiera precedente"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:118
+msgid "Launcher"
+msgstr "Launcher"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:125
+msgid "Super (Hold)"
+msgstr "Super (tenere premuto)"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:130
+msgid "Opens the launcher, displays shortcuts."
+msgstr "Apre il Launcher, mostra le scorciatoie"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:138
+msgid "Alt + F1"
+msgstr "Alt + F1"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:143
+msgid "Opens launcher keyboard navigation mode."
+msgstr "Avvia la navigazione da tastiera del Launcher"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:151
+msgid "Super + Tab"
+msgstr "Super + Tab"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:156
+msgid "Switches applications via the launcher."
+msgstr "Passa a un'altra applicazione attraverso il Launcher"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:164
+msgid "Super + 1 to 0"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:169
+msgid "Same as clicking on a launcher icon."
+msgstr "Come fare clic su un'icona del Launcher"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:177
+msgid "Super + A"
+msgstr "Super + A"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:182
+msgid "Opens the Application Drawer."
+msgstr "Apre il cassetto delle applicazioni"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:194
+msgid "Scopes"
+msgstr "Scope"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:201
+msgid "Super (Tap)"
+msgstr "Super (tocco)"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:206
+msgid "Opens the Scopes home."
+msgstr "Apre le Scope"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:222
+msgid "Switching"
+msgstr "Cambio applicazione"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:229
+msgid "Alt + Tab"
+msgstr "Alt + Tab"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:234
+msgid "Switches between applications."
+msgstr "Passa da un'applicazione all'altra"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:242
+msgid "Super + W"
+msgstr "Super + W"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:247
+msgid "Opens the desktop spread."
+msgstr "Apre la visualizzazione della scrivania"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:255
+msgid "Cursor Left or Right"
+msgstr "Freccia destra o sinistra"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:260
+msgid "Moves the focus."
+msgstr "Sposta il focus"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:272
+msgid "Windows"
+msgstr "Finestre"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:279
+msgid "Ctrl + Super + D"
+msgstr "Ctrl + Super + D"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:284
+msgid "Minimizes all windows."
+msgstr "Minimizza tutte le finestre"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:292
+msgid "Ctrl + Super + Up"
+msgstr "Ctrl + Super + Su"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:297
+msgid "Maximizes the current window."
+msgstr "Massimizza la finestra in uso"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:305
+msgid "Ctrl + Super + Down"
+msgstr "Ctrl + Super + Giù"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:310
+msgid "Minimizes or restores the current window."
+msgstr "Minimizza o ripristina la finestra attuale"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:318
+msgid "Ctrl + Super + Left or Right"
+msgstr "Ctrl + Super + Sinistra o Destra"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:323
+msgid "Semi-maximizes the current window."
+msgstr "Semi-massimizza la finestra attuale"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:331
+msgid "Alt + F4"
+msgstr "Alt + F4"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:336
+msgid "Closes the current window."
+msgstr "Chiude la finestra attuale"
+
+#: qml/Components/Lockscreen.qml:212 qml/Greeter/NarrowView.qml:242
+msgid "Return to Call"
+msgstr "Torna alla chiamata"
+
+#: qml/Components/Lockscreen.qml:212
+msgid "Emergency Call"
+msgstr "Chiamata di emergenza"
+
+#: qml/Components/Lockscreen.qml:245
+msgid "OK"
+msgstr "OK"
+
+#: qml/Components/MediaServices/VideoPlayerControls.qml:44
+#, qt-format
+msgid "%1:%2:%3"
+msgstr "%1.%2.%3"
+
+#: qml/Components/MediaServices/VideoPlayerControls.qml:49
+#, qt-format
+msgid "%1:%2"
+msgstr "%1.%2"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:33
+msgid "Apps may have unsaved data:"
+msgstr "Le app potrebbero contenere dati non salvati:"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:60
+msgctxt ""
+"Re-dock means connect the device again to an external screen/mouse/keyboard"
+msgid "Re-dock, save your work and close these apps to continue."
+msgstr ""
+"Ricollegare il dispositivo, salvare il proprio lavoro e chiudere tutte le "
+"applicazioni per continuare."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:67
+msgid "Or force close now (unsaved data will be lost)."
+msgstr "Oppure forzare la chiusura ora (i dati non salvati verranno persi)."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:80
+msgid "OK, I will reconnect"
+msgstr "Ok, collegherò il dispositivo"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:81
+msgid "Reconnect now!"
+msgstr "Collegare ora."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:94
+msgid "Close all"
+msgstr "Chiudi tutto"
+
+#: qml/Components/SharingPicker.qml:54
+msgid "Preview Share Item"
+msgstr "Anteprima elementi da condividere"
+
+#: qml/Components/VirtualTouchPad.qml:317
+msgid ""
+"Your device is now connected to an external display. Use this screen as a "
+"touch pad to interact with the pointer."
+msgstr ""
+"Il dispositivo è ora collegato a un display esterno: usare lo schermo come "
+"un touchpad per interagire con il puntatore."
+
+#: qml/Components/VirtualTouchPad.qml:327
+msgid "Tap left button to click."
+msgstr "Toccare il pulsante sinistro per il clic"
+
+#: qml/Components/VirtualTouchPad.qml:339
+msgid "Tap right button to right click."
+msgstr "Toccare il pulsante destro per il clic destro"
+
+#: qml/Components/VirtualTouchPad.qml:351
+msgid "Swipe with two fingers to scroll."
+msgstr "Scorrere con due dita per lo scorrimento"
+
+#: qml/Components/VirtualTouchPad.qml:396
+msgid "Find more settings in the system settings."
+msgstr "Trova ulteriori impostazioni nelle impostazioni di sistema"
+
+#: qml/Dash/DashPageHeader.qml:361
+msgctxt "Button: Open the Ubuntu Store"
+msgid "Store"
+msgstr "Store"
+
+#: qml/Dash/DashPageHeader.qml:368
+msgctxt "Button: Start a search in the current dash scope"
+msgid "Search"
+msgstr "Cerca"
+
+#: qml/Dash/DashPageHeader.qml:378
+msgctxt "Button: Show the current dash scope settings"
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: qml/Dash/DashPageHeader.qml:385
+msgid "Remove from Favorites"
+msgstr "Rimuovi dai preferiti"
+
+#: qml/Dash/DashPageHeader.qml:385
+msgid "Add to Favorites"
+msgstr "Aggiungi ai preferiti"
+
+#: qml/Dash/FiltersPopover.qml:61
+msgid "Refine your results"
+msgstr "Affina la ricerca"
+
+#: qml/Dash/FiltersPopover.qml:70
+msgid "Reset"
+msgstr "Azzera"
+
+#: qml/Dash/GenericScopeView.qml:547 qml/Dash/GenericScopeView.qml:718
+msgid "Show less"
+msgstr "Mostra di meno"
+
+#: qml/Dash/GenericScopeView.qml:547
+msgid "Show all"
+msgstr "Mostra tutto"
+
+#: qml/Dash/GenericScopeView.qml:578
+msgctxt "Label: Hint for dash search line edit"
+msgid "Search"
+msgstr "Cerca"
+
+#: qml/Dash/PageHeaderExtraPanel.qml:67
+msgid "Recent Searches"
+msgstr "Ricerche recenti"
+
+#: qml/Dash/PageHeaderExtraPanel.qml:78
+msgid "Clear All"
+msgstr "Pulisci tutto"
+
+#: qml/Dash/Previews/PreviewActionCombo.qml:36
+msgid "More..."
+msgstr "Altro..."
+
+#: qml/Dash/Previews/PreviewActionCombo.qml:36
+msgid "Less..."
+msgstr "Meno..."
+
+#: qml/Dash/Previews/PreviewCommentInput.qml:83
+#: qml/Dash/Previews/PreviewRatingInput.qml:202
+msgid "Send"
+msgstr "Invia"
+
+#: qml/Dash/Previews/PreviewRatingInput.qml:109
+msgid "Rate this"
+msgstr "Valuta"
+
+#: qml/Dash/Previews/PreviewRatingInput.qml:184
+msgid "Add a review"
+msgstr "Aggiungi una recensione"
+
+#: qml/Dash/PullToRefreshScopeStyle.qml:56
+msgid "Pull to refresh…"
+msgstr "Scorrere per aggiornare…"
+
+#: qml/Dash/PullToRefreshScopeStyle.qml:61
+msgid "Release to refresh…"
+msgstr "Rilasciare per aggiornare…"
+
+#: qml/Dash/ScopeSettings/ScopeSettingBoolean.qml:43
+msgid "Enable location data"
+msgstr "Abilita localizzazione"
+
+#: qml/Dash/ScopesList.qml:146
+msgid "Manage"
+msgstr "Gestisci"
+
+#: qml/Dash/ScopesList.qml:187
+msgid "Home"
+msgstr "Home"
+
+#: qml/Dash/ScopesList.qml:188
+msgid "Also installed"
+msgstr "Installato anche"
+
+#: qml/Greeter/CoverPage.qml:127
+msgid "Unlock"
+msgstr "Sblocca"
+
+#: qml/Greeter/DelayedLockscreen.qml:43
+msgid "Device Locked"
+msgstr "Dispositivo bloccato"
+
+#: qml/Greeter/DelayedLockscreen.qml:58
+msgid "You have been locked out due to too many failed passphrase attempts."
+msgstr ""
+"Utente bloccato a causa di troppi tentativi falliti di inserimento della "
+"passphrase."
+
+#: qml/Greeter/DelayedLockscreen.qml:59
+msgid "You have been locked out due to too many failed passcode attempts."
+msgstr ""
+"Utente bloccato a causa di troppo tentativi falliti di inserimento del "
+"codice."
+
+#: qml/Greeter/DelayedLockscreen.qml:68
+#, qt-format
+msgid "Please wait %1 minute and then try again…"
+msgid_plural "Please wait %1 minutes and then try again…"
+msgstr[0] "Attendere %1 minuto poi riprovare…"
+msgstr[1] "Attendere %1 minuti poi riprovare…"
+
+#: qml/Greeter/Greeter.qml:561
+msgid "Try again"
+msgstr "Riprova"
+
+#: qml/Greeter/Greeter.qml:562
+msgid "Enter passphrase to unlock"
+msgstr "Digitare la passphrase per sbloccare"
+
+#: qml/Greeter/Greeter.qml:563
+msgid "Enter passcode to unlock"
+msgstr "Digitare il codice per sbloccare"
+
+#: qml/Greeter/NarrowView.qml:242
+msgid "Emergency"
+msgstr "Emergenza"
+
+#: qml/Greeter/PromptList.qml:126
+msgid "Passphrase"
+msgstr "Passphrase"
+
+#: qml/Greeter/PromptList.qml:126
+msgid "Passcode"
+msgstr "Codice"
+
+#: qml/Greeter/SessionsList.qml:122
+msgid "Select desktop environment"
+msgstr "Seleziona l'ambiente grafico"
+
+#: qml/Launcher/Drawer.qml:93
+msgid "Search…"
+msgstr "Cerca…"
+
+#: qml/Launcher/Drawer.qml:128
+msgctxt "Apps sorted alphabetically"
+msgid "A-Z"
+msgstr "A-Z"
+
+#: qml/Launcher/MoreAppsHeader.qml:55
+msgid "More apps in the store"
+msgstr "Maggiori applicazioni nello store"
+
+#: qml/Notifications/NotificationMenuItemFactory.qml:124
+msgid "Show password"
+msgstr "Mostra password"
+
+#: qml/Panel/ActiveCallHint.qml:79
+msgid "Tap to return to call..."
+msgstr "Tocca per tornare alla chiamata..."
+
+#: qml/Panel/ActiveCallHint.qml:92
+msgid "Conference"
+msgstr "Conferenza"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:869
+msgid "Nothing is playing"
+msgstr "Niente in riproduzione"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:997
+#, qt-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "%1 ora"
+msgstr[1] "%1 ore"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1001
+#, qt-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 minuto"
+msgstr[1] "%1 minuti"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1006
+#, qt-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 secondo"
+msgstr[1] "%1 secondi"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1009
+msgid "0 seconds"
+msgstr "0 secondi"
+
+#. Translators: String like "1 hour, 2 minutes, 3 seconds remaining"
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1011
+#, qt-format
+msgid "%1 remaining"
+msgstr "Tempo residuo: %1"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1017
+msgid "In queue…"
+msgstr "In coda..."
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1021
+msgid "Downloading"
+msgstr "Scaricamento in corso"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1023
+msgid "Paused, tap to resume"
+msgstr "In pausa. Tocca per riprendere"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1025
+msgid "Canceled"
+msgstr "Annullato"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1027
+msgid "Finished"
+msgstr "Completato"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1029
+msgid "Failed, tap to retry"
+msgstr "Non riuscito. Tocca per riprovare"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:151
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:210
+msgctxt "Button: Send a reply message"
+msgid "Send"
+msgstr "Invia"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:152
+msgctxt "Label: Hint in message indicator line edit"
+msgid "Reply"
+msgstr "Rispondi"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:209
+msgctxt "Button: Call back on phone"
+msgid "Call back"
+msgstr "Richiama"
+
+#: qml/Panel/PanelMenuPage.qml:92
+msgid "Back"
+msgstr ""
+
+#: qml/Stage/SideStage.qml:76
+msgid "Drag using 3 fingers any application from one window to the other"
+msgstr ""
+"Trascinare con 3 dita qualsiasi applicazione da una finestra all'altra"
+
+#: qml/Tutorial/TutorialLeftLong.qml:49
+msgid "Long swipe from the left edge to open the Application Drawer"
+msgstr ""
+"Scorrimento lungo dal bordo sinistro per aprire il cassetto delle "
+"applicazioni"
+
+#: qml/Tutorial/TutorialLeft.qml:47
+msgid "Short swipe from the left edge to open the launcher"
+msgstr "Scorrere brevemente dal bordo sinistro per aprire il launcher"
+
+#: qml/Tutorial/TutorialRight.qml:55
+msgid "Push your mouse against the right edge to view your open apps"
+msgstr "Spostare il mouse sul bordo destro per vedere le app aperte"
+
+#: qml/Tutorial/TutorialRight.qml:56
+msgid "Swipe from the right edge to view your open apps"
+msgstr "Scorrere dal bordo destro per visualizzare le app aperte"
+
+#: qml/Tutorial/TutorialTop.qml:53
+msgid "Swipe from the top edge to access notifications and quick settings"
+msgstr ""
+"Scorrere dal bordo superiore per accedere alle notifiche e alle impostazioni "
+"rapide"
+
+#: qml/Wizard/Page.qml:54
+msgctxt "Button: Go back one page in the Wizard"
+msgid "Back"
+msgstr "Indietro"
+
+#: qml/Wizard/Pages/10-welcome.qml:28
+msgid "Language"
+msgstr "Lingua"
+
+#: qml/Wizard/Pages/10-welcome.qml:173 qml/Wizard/Pages/20-keyboard.qml:152
+#: qml/Wizard/Pages/30-wifi.qml:207 qml/Wizard/Pages/40-location.qml:271
+#: qml/Wizard/Pages/50-timezone.qml:271 qml/Wizard/Pages/60-account.qml:65
+#: qml/Wizard/Pages/70-passwd-type.qml:145
+#: qml/Wizard/Pages/75-report-check.qml:84
+#: qml/Wizard/Pages/passcode-desktop.qml:142
+#: qml/Wizard/Pages/password-set.qml:142
+msgid "Next"
+msgstr "Avanti"
+
+#: qml/Wizard/Pages/20-keyboard.qml:31
+msgid "Select Keyboard"
+msgstr "Seleziona la tastiera"
+
+#: qml/Wizard/Pages/20-keyboard.qml:71
+msgid "Keyboard language"
+msgstr "Lingua della tastiera"
+
+#: qml/Wizard/Pages/20-keyboard.qml:93
+msgid "Keyboard layout"
+msgstr "Disposizione della tastiera"
+
+#: qml/Wizard/Pages/20-keyboard.qml:152 qml/Wizard/Pages/30-wifi.qml:207
+#: qml/Wizard/Pages/60-account.qml:65 qml/Wizard/Pages/77-system-update.qml:152
+#: qml/Wizard/Pages/sim.qml:101
+msgid "Skip"
+msgstr "Salta"
+
+#: qml/Wizard/Pages/30-wifi.qml:31
+msgid "Connect to Wi‑Fi"
+msgstr "Connetti al Wi-Fi"
+
+#: qml/Wizard/Pages/30-wifi.qml:132
+msgid "Connected"
+msgstr "Connessi"
+
+#: qml/Wizard/Pages/30-wifi.qml:165
+msgid "Available Wi-Fi networks"
+msgstr "Reti Wi-Fi disponibili"
+
+#: qml/Wizard/Pages/30-wifi.qml:166
+msgid "No available Wi-Fi networks"
+msgstr "Nessuna rete Wi-Fi disponibile"
+
+#: qml/Wizard/Pages/40-location.qml:27
+msgid "Location Services"
+msgstr "Servizi di posizionamento"
+
+#: qml/Wizard/Pages/40-location.qml:83
+msgid ""
+"Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
+"(recommended)"
+msgstr ""
+"Usa in maniera anonima GPS, punti di accesso Wi-Fi e rete cellulare per "
+"determinare la posizione (suggerito)"
+
+#: qml/Wizard/Pages/40-location.qml:105
+#, qt-format
+msgid "By selecting this option you agree to the Nokia HERE %1."
+msgstr "Selezionando questa opzione si accettano i %1 di Nokia HERE."
+
+#: qml/Wizard/Pages/40-location.qml:106
+msgctxt "part of: Nokia HERE terms and conditions"
+msgid "terms and conditions"
+msgstr "termini e condizioni"
+
+#: qml/Wizard/Pages/40-location.qml:160
+msgid "GPS only"
+msgstr "Solo GPS"
+
+#: qml/Wizard/Pages/40-location.qml:214
+msgid "Don't use my location"
+msgstr "Non utilizzare la posizione"
+
+#: qml/Wizard/Pages/40-location.qml:260
+msgid "You can change it later in System Settings."
+msgstr "È possibile effettuare modifiche in seguito dalle Impostazioni."
+
+#: qml/Wizard/Pages/50-timezone.qml:30
+msgid "Time Zone"
+msgstr "Fuso orario"
+
+#: qml/Wizard/Pages/50-timezone.qml:182
+msgid "Enter your city"
+msgstr "Inserisci la propria città"
+
+#: qml/Wizard/Pages/60-account.qml:24
+msgid "Personalize Your Device"
+msgstr "Personalizzare il dispositivo"
+
+#: qml/Wizard/Pages/60-account.qml:48
+msgid "Preferred Name"
+msgstr "Nome preferito"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:40
+msgid "Lock Screen"
+msgstr "Blocco schermo"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:102
+msgctxt "Label: Type of security method"
+msgid "Create new password"
+msgstr "Crea nuova password"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:104
+msgctxt "Label: Type of security method"
+msgid "Create passcode (numbers only)"
+msgstr "Crea codice (numerico)"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:106
+msgctxt "Label: Type of security method"
+msgid "No lock code"
+msgstr "Nessun codice di blocco"
+
+#: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
+msgid "Privacy Policy"
+msgstr "Informativa sulla privacy"
+
+#: qml/Wizard/Pages/75-report-check.qml:26
+msgid "Help Us Improve"
+msgstr "Aiutaci a migliorare"
+
+#: qml/Wizard/Pages/75-report-check.qml:59
+msgid "Improve system performance by sending us crashes and error reports."
+msgstr ""
+"Migliora l'efficienza del sistema inviandoci notificazioni di errori e "
+"blocchi critici."
+
+#: qml/Wizard/Pages/75-report-check.qml:60
+msgid "Privacy policy"
+msgstr "Informativa sulla privacy"
+
+#: qml/Wizard/Pages/77-system-update.qml:28
+msgid "Update Device"
+msgstr "Aggiorna il dispositivo"
+
+#: qml/Wizard/Pages/77-system-update.qml:55
+msgid ""
+"There is a system update available and ready to install. Afterwards, the "
+"device will automatically restart."
+msgstr ""
+"È disponibile un aggiornamento di sistema ed è pronto per l'installazione. "
+"Il sistema si riavvierà automaticamente al termine dell'operazione."
+
+#: qml/Wizard/Pages/77-system-update.qml:76
+msgctxt "string identifying name of the update"
+msgid "Ubuntu system"
+msgstr "Sistema Ubuntu"
+
+#: qml/Wizard/Pages/77-system-update.qml:83
+#, qt-format
+msgctxt "version of the system update"
+msgid "Version %1"
+msgstr "Versione %1"
+
+#: qml/Wizard/Pages/77-system-update.qml:102
+msgid "This could take a few minutes..."
+msgstr "Potrebbe impiegare alcuni minuti..."
+
+#: qml/Wizard/Pages/77-system-update.qml:116
+msgid "Install and restart now"
+msgstr "Installa e riavvia adesso"
+
+#: qml/Wizard/Pages/80-finished.qml:89
+msgid "Welcome to Ubuntu"
+msgstr "Benvenuti in Ubuntu"
+
+#: qml/Wizard/Pages/80-finished.qml:104
+msgid "You are ready to use your device now"
+msgstr "Il dispositivo è pronto per essere utilizzato"
+
+#: qml/Wizard/Pages/80-finished.qml:124
+msgid "Get Started"
+msgstr "Inizia"
+
+#: qml/Wizard/Pages/here-terms.qml:25
+msgid "Terms & Conditions"
+msgstr "Termini e condizioni"
+
+#: qml/Wizard/Pages/here-terms.qml:69
+msgid "Your device uses positioning technologies provided by HERE."
+msgstr "Il dispositivo usa tecnologie di posizionamento fornite da HERE."
+
+#: qml/Wizard/Pages/here-terms.qml:81
+msgid ""
+"To provide you with positioning services and to improve their quality, HERE "
+"collects information about nearby cell towers and Wi-Fi hotspots around your "
+"current location whenever your position is being found."
+msgstr ""
+"Per fornire servizi di posizionamento e migliorare la qualità, ogni volta "
+"che la posizione viene rilevata HERE raccoglie informazioni riguardo ai "
+"punti di accesso Wi-Fi e ai ripetitori cellulari nelle vicinanze."
+
+#: qml/Wizard/Pages/here-terms.qml:93
+msgid ""
+"The information collected is used to analyze the service and to improve the "
+"use of service, but not to identify you personally."
+msgstr ""
+"Le informazioni raccolte vengono utilizzate per analizzare il servizio e "
+"migliorarne l'uso, non per identificare l'utente."
+
+#: qml/Wizard/Pages/here-terms.qml:106
+#, qt-format
+msgid "By continuing, you agree to the HERE platform %1 and %2."
+msgstr "Continuando, si accettano i %1 e la %2 della piattaforma HERE."
+
+#: qml/Wizard/Pages/here-terms.qml:107
+msgid "Service Terms"
+msgstr "termini di servizio"
+
+#: qml/Wizard/Pages/passcode-confirm.qml:43
+#: qml/Wizard/Pages/passcode-desktop.qml:97
+msgid "Confirm passcode"
+msgstr "Conferma codice"
+
+#: qml/Wizard/Pages/passcode-confirm.qml:45
+msgid "Incorrect passcode."
+msgstr "Codice errato."
+
+#: qml/Wizard/Pages/passcode-confirm.qml:45
+msgctxt "Enter the passcode again"
+msgid "Please re-enter."
+msgstr "Ripetere."
+
+#: qml/Wizard/Pages/passcode-desktop.qml:31
+msgid "Lock Screen Passcode"
+msgstr "Codice blocco schermo"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:61
+msgid "Enter 4 numbers to setup your passcode"
+msgstr "Inserire 4 numeri per impostare il codice"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:77
+#: qml/Wizard/Pages/passcode-set.qml:54
+msgid "Choose passcode"
+msgstr "Scegli codice"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:127
+msgid "Passcode too short"
+msgstr "Codice troppo corto"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:129
+msgid "Passcodes match"
+msgstr "I codici corrispondono"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:131
+msgid "Passcodes do not match"
+msgstr "I codici non corrispondono"
+
+#: qml/Wizard/Pages/passcode-set.qml:62
+msgid "Passcode must be 4 characters long"
+msgstr "Il codice deve essere di 4 caratteri"
+
+#: qml/Wizard/Pages/password-set.qml:31
+msgid "Lock Screen Password"
+msgstr "Password blocco schermo"
+
+#: qml/Wizard/Pages/password-set.qml:62
+msgid "Enter at least 8 characters"
+msgstr "Inserire almeno 8 caratteri"
+
+#: qml/Wizard/Pages/password-set.qml:74
+msgid "Choose password"
+msgstr "Scegli una password"
+
+#: qml/Wizard/Pages/password-set.qml:104
+msgid "Confirm password"
+msgstr "Conferma password"
+
+#: qml/Wizard/Pages/sim.qml:27
+msgid "No SIM card installed"
+msgstr "Nessuna scheda SIM installata"
+
+#: qml/Wizard/Pages/sim.qml:54
+msgid "SIM card added"
+msgstr "Scheda SIM aggiunta"
+
+#: qml/Wizard/Pages/sim.qml:55
+msgid "You must restart the device to access the mobile network."
+msgstr "È necessario riavviare il dispositivo per poter accedere alla rete."
+
+#: qml/Wizard/Pages/sim.qml:59
+msgid "Restart"
+msgstr "Riavvia"
+
+#: qml/Wizard/Pages/sim.qml:78
+msgid "You won’t be able to make calls or use text messaging without a SIM."
+msgstr "Senza una SIM non è possibile chiamare o inviare messaggi SMS."
+
+#: qml/Wizard/Pages/sim.qml:90
+msgid "To proceed with no SIM tap Skip."
+msgstr "Per continuare senza SIM, premere Salta."
+
+#: qml/Wizard/PasswordMeter.qml:87
+msgid "Password too short"
+msgstr "Password troppo corta"
+
+#: qml/Wizard/PasswordMeter.qml:89
+msgid "Passwords match"
+msgstr "Le password corrispondono"
+
+#: qml/Wizard/PasswordMeter.qml:91
+msgid "Passwords do not match"
+msgstr "Le password non corrispondono"
+
+#: qml/Wizard/PasswordMeter.qml:95
+msgid "Strong password"
+msgstr "Password robusta"
+
+#: qml/Wizard/PasswordMeter.qml:97
+msgid "Fair password"
+msgstr "Password discreta"
+
+#: qml/Wizard/PasswordMeter.qml:99
+msgid "Weak password"
+msgstr "Password fragile"
+
+#: qml/Wizard/PasswordMeter.qml:101
+msgid "Very weak password"
+msgstr "Password molto fragile"
+
+#~ msgid "Confirm"
+#~ msgstr "Conferma"
+
+#~ msgid "Type or say a command"
+#~ msgstr "Scrivere o pronunciare un comando"
+
+#~ msgid "Loading. Please Wait..."
+#~ msgstr "Caricamento. Attendere..."
+
+#~ msgid "Speak Now..."
+#~ msgstr "Parla ora..."
+
+#~ msgid "Speaking..."
+#~ msgstr "Sto parlando..."
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgid "Right edge"
+#~ msgstr "Bordo destro"
+
+#~ msgid "Skip intro"
+#~ msgstr "Salta introduzione"
+
+#~ msgid "Top edge"
+#~ msgstr "Bordo superiore"
+
+#~ msgid "Close"
+#~ msgstr "Chiudi"
+
+#~ msgid "Left edge"
+#~ msgstr "Bordo sinistro"
+
+#~ msgid "Try swiping from the top edge to access the indicators"
+#~ msgstr ""
+#~ "Provare a far scorrere dal bordo in alto per accedere agli indicatori"
+
+#~ msgid "Swipe from the left to reveal the launcher for quick access to apps"
+#~ msgstr ""
+#~ "Far scorrere il bordo sinistro per mostrare il Launcher e avere un rapido "
+#~ "accesso alle applicazioni"
+
+#~ msgid "Well done"
+#~ msgstr "Ben fatto"
+
+#~ msgid "Try swiping from the right edge to unlock the phone"
+#~ msgstr "Provare a far scorrere dal bordo destro per sbloccare il telefono"
+
+#~ msgid "See less"
+#~ msgstr "Mostra meno"
+
+#~ msgid ""
+#~ "You have now mastered the edge gestures and can start using the "
+#~ "phone<br><br>Tap on the screen to start"
+#~ msgstr ""
+#~ "L'apprendimento dei gesti è stato  completato. È ora possibile iniziare a "
+#~ "usare il telefono.<br><br>Toccare lo schermo per iniziare"
+
+#~ msgid "See all"
+#~ msgstr "Mostra tutto"
+
+#~ msgid "All"
+#~ msgstr "Tutto"
+
+#~ msgid "Unlock SIM"
+#~ msgstr "Sblocca SIM"
+
+#~ msgid "Favorites"
+#~ msgstr "Preferiti"
+
+#~ msgid "Store"
+#~ msgstr "Store"
+
+#~ msgid "Power off"
+#~ msgstr "Spegni"
+
+#~ msgid "Done"
+#~ msgstr "Fatto"
+
+#~ msgid "Roaming"
+#~ msgstr "Roaming"
+
+#~ msgid "Sorry, incorrect passphrase."
+#~ msgstr "Passphrase non corretta"
+
+#~ msgid "Sorry, incorrect passcode."
+#~ msgstr "Passcode non corretto"
+
+#~ msgid ""
+#~ "If passphrase is entered incorrectly, your phone will conduct a factory "
+#~ "reset and all personal data will be deleted."
+#~ msgstr ""
+#~ "Se verrà inserita una passphrase errata, il telefono eseguirà un ripristino "
+#~ "delle impostazioni di fabbrica e tutti i dati personali verranno eliminati."
+
+#~ msgid "This will be your last attempt."
+#~ msgstr "Questo sarà l'ultimo tentativo."
+
+#, qt-format
+#~ msgid "Sorry, incorrect %1"
+#~ msgstr "%1 non corretto"
+
+#~ msgid "Sorry, incorrect passphrase"
+#~ msgstr "Passphrase errata"
+
+#~ msgid "Log out"
+#~ msgstr "Termina sessione"
+
+#~ msgid "Are you sure you want to shut down?"
+#~ msgstr "Spegnere veramente il dispositivo?"
+
+#~ msgid "Reboot"
+#~ msgstr "Riavvia"
+
+#~ msgid "Shut down"
+#~ msgstr "Spegni"
+
+#~ msgid "Sorry, incorrect passcode"
+#~ msgstr "Passcode non corretto"
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "Power"
+#~ msgstr "Alimentazione"
+
+#~ msgid "Manage Scopes"
+#~ msgstr "Gestisci Scope"
+
+#~ msgid "Please re-enter"
+#~ msgstr "Inserire nuovamente"
+
+#~ msgid "Enter passcode"
+#~ msgstr "Inserire codice"
+
+#~ msgid "Enter passphrase"
+#~ msgstr "Inserire passphrase"
+
+#, qt-format
+#~ msgid "Enter %1"
+#~ msgstr "Inserire %1"
+
+#~ msgid "Add a SIM card and restart your device"
+#~ msgstr "Inserire una SIM e riavviare il dispositivo"
+
+#~ msgid "Hi!"
+#~ msgstr "Ciao!"
+
+#~ msgid "Let’s get started."
+#~ msgstr "Iniziamo!"
+
+#~ msgid "Continue"
+#~ msgstr "Continua"
+
+#~ msgid "Welcome to your Ubuntu phone."
+#~ msgstr "Benvenuti in Ubuntu Phone."
+
+#~ msgid "Without it, you won’t be able to make calls or use text messaging."
+#~ msgstr ""
+#~ "In caso contrario, non sarà possibile effettuare chiamate o usare messaggi "
+#~ "di testo."
+
+#~ msgid "Please select how you’d like to unlock your phone."
+#~ msgstr "Selezionare il metodo di sblocco del telefono."
+
+#~ msgid ""
+#~ "By selecting this option you agree to the Nokia HERE <a href='#'>terms and "
+#~ "conditions</a>."
+#~ msgstr ""
+#~ "Selezionando questa opzione si accettano i <a href='#'>termini e le "
+#~ "condizioni</a> di Nokia HERE ."
+
+#~ msgid "Available networks…"
+#~ msgstr "Reti disponibili…"
+
+#~ msgid "No available networks."
+#~ msgstr "Nessuna rete disponibile."
+
+#~ msgid "Location"
+#~ msgstr "Posizione"
+
+#~ msgid "Let the phone detect your location:"
+#~ msgstr "Lasciare che il telefono rilevi la propria posizione:"
+
+#~ msgid "Using GPS only (less accurate)"
+#~ msgstr "Utilizzando solo il GPS (meno precisa)"
+
+#~ msgid "Improving your experience"
+#~ msgstr "Miglioramento esperienza utente"
+
+#~ msgid ""
+#~ "This can be disabled in <b>System Settings</b> under <b>Security &amp; "
+#~ "Privacy</b>"
+#~ msgstr ""
+#~ "Ciò può essere disattivato nel pannello <b>Sicurezza e privacy</b> delle "
+#~ "<b>Impostazioni</b>"
+
+#~ msgid ""
+#~ "Your phone is set up to automatically report errors to Canonical and its "
+#~ "partners, the makers of the operating system."
+#~ msgstr ""
+#~ "Il telefono è impostato per inviare automaticamente errori a Canonical e i "
+#~ "suoi partner, i creatori del sistema operativo."
+
+#~ msgid "Nice work!"
+#~ msgstr "Ottimo lavoro!"
+
+#~ msgid "All done"
+#~ msgstr "Configurazione terminata"
+
+#~ msgid "Your phone is now ready to use."
+#~ msgstr "Il telefono è pronto per essere usato."
+
+#~ msgid "Confirm passphrase"
+#~ msgstr "Conferma passphrase"
+
+#~ msgid "Finish"
+#~ msgstr "Finito"
+
+#~ msgid "Lock security"
+#~ msgstr "Sicurezza di blocco"
+
+#~ msgid "Please try again."
+#~ msgstr "Riprovare."
+
+#~ msgid "Passphrase must be 4 characters long"
+#~ msgstr "La passphrase deve essere lunga 4 caratteri"
+
+#~ msgid "Not at all"
+#~ msgstr "No a tutto"
+
+#~ msgid "Choose your passcode"
+#~ msgstr "Scegliere il codice"
+
+#~ msgid "Using GPS, anonymized Wi-Fi and cellular network info (recommended)"
+#~ msgstr ""
+#~ "Utilizzando il GPS, Wi-Fi e informazioni dalla rete cellulare in modo "
+#~ "anonimo (consigliato)"
+
+#~ msgid "You can change your mind later in <b>System Settings</b>."
+#~ msgstr "È possibile rivedere la propria scelta nelle <b>Impostazioni</b>."
+
+#, qt-format
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
+
+#, qt-format
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
+
+#~ msgid "You almost got it!"
+#~ msgstr "Quasi terminato!"
+
+#~ msgid "Short swipe from the left edge."
+#~ msgstr "Scorri brevemente dal bordo sinistro"
+
+#~ msgid "These are the shortcuts to favorite apps"
+#~ msgstr "Queste sono le scorciatoie alle app preferite"
+
+#~ msgid "Tap here to finish."
+#~ msgstr "Toccare qui per concludere."
+
+#~ msgid "To view open apps"
+#~ msgstr "Per vedere le app aperte"
+
+#~ msgid "Tap here to continue."
+#~ msgstr "Toccare qui per continuare."
+
+#~ msgid "Try again."
+#~ msgstr "Provare di nuovo."
+
+#~ msgid "Tap to unlock"
+#~ msgstr "Tocca per sbloccare"
+
+#~ msgid "This action does different things for different apps"
+#~ msgstr "Questa azione esegue diverse operazioni per diverse app"
+
+#~ msgid "Open the launcher"
+#~ msgstr "Apri il Launcher"
+
+#~ msgid "Open special menus"
+#~ msgstr "Apri menù speciali"
+
+#~ msgid "Long swipe from the right edge."
+#~ msgstr "Scorrie a lungo dal bordo destro"
+
+#~ msgid "View all your running tasks."
+#~ msgstr "Visualizza tutte le attività in esecuzione"
+
+#~ msgid "Swipe up from the bottom edge."
+#~ msgstr "Scorri verso l'alto dal bordo inferiore"
+
+#~ msgctxt "Button: Shut down the system"
+#~ msgid "Shut down"
+#~ msgstr "Spegni"
+
+#~ msgctxt "Title: Reboot/Shut down dialog"
+#~ msgid "Shut down"
+#~ msgstr "Spegni"
+
+#~ msgctxt "Button: Reboot the system"
+#~ msgid "Reboot"
+#~ msgstr "Riavvia"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "No security"
+#~ msgstr "Nessuna sicurezza"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Swipe"
+#~ msgstr "Scorrimento"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "4 digits only"
+#~ msgstr "Solo 4 caratteri"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Passcode"
+#~ msgstr "Passcode"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Passphrase"
+#~ msgstr "Passphrase"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "Numbers and letters"
+#~ msgstr "Numeri e lettere"
+
+#~ msgid "Swipe up again to close the settings screen"
+#~ msgstr ""
+#~ "Far scorrere nuovamente verso l'alto per chiudere la schermata delle "
+#~ "impostazioni"
+
+#~ msgid "%a %d %b %H:%M"
+#~ msgstr "%a %b %d %H:%M"
+
+#~ msgid "%a %H:%M"
+#~ msgstr "%a %H:%M"
+
+#~ msgid "%a %l:%M %p"
+#~ msgstr "%a %l:%M %p"
+
+#~ msgid "Tomorrow %l:%M %p"
+#~ msgstr "Domani %l:%M %p"
+
+#~ msgid "%l:%M %p"
+#~ msgstr "%l:%M %p"
+
+#~ msgid "Yesterday %l:%M %p"
+#~ msgstr "Ieri %l:%M %p"
+
+#~ msgid "Tomorrow %H:%M"
+#~ msgstr "Domani %H:%M"
+
+#~ msgid "%H:%M"
+#~ msgstr "%H:%M"
+
+#~ msgid "Yesterday %H:%M"
+#~ msgstr "Ieri %H:%M"
+
+#~ msgid "%a %d %b %l:%M %p"
+#~ msgstr "%a %b %d %l:%M %p"
+
+#~ msgctxt "passphrase"
+#~ msgid "Please re-enter"
+#~ msgstr "Inserire nuovamente"
+
+#~ msgid "Call back"
+#~ msgstr "Richiama"
+
+#~ msgid ""
+#~ "If passcode is entered incorrectly, your phone will conduct a factory reset "
+#~ "and all personal data will be deleted."
+#~ msgstr ""
+#~ "Se verrà inserito un passcode errato, il telefono eseguirà un ripristino "
+#~ "delle impostazioni di fabbrica e tutti i dati personali verranno eliminati."
+
+#~ msgid "Swipe from the top edge to open the notification bar"
+#~ msgstr "Scorrere dal bordo superiore per aprire la barra delle notifiche"
+
+#~ msgid "Short or long swipe from the right edge to view your open apps"
+#~ msgstr ""
+#~ "Scorrere lentamente o velocemente dal bordo destro per visualizzare le "
+#~ "applicazioni aperte"
+
+#~ msgid "Swipe from the top right edge to open the notification bar"
+#~ msgstr ""
+#~ "Scorrere dal bordo superiore destro per aprire la barra delle modifiche"
+
+#~ msgid "Swipe from the left edge to open the launcher"
+#~ msgstr "Scorrere dal bordo sinistro per aprire il launcher"
+
+#~ msgid "Swipe up for recent calls"
+#~ msgstr "Scorrere verso l'alto per le chiamate recenti"
+
+#~ msgid "Swipe up for favorite calculations"
+#~ msgstr "Scorrere verso l'alto per i calcoli preferiti"
+
+#~ msgid "Swipe up to manage the app"
+#~ msgstr "Scorrere verso l'alto per gestire l'applicazione"
+
+#~ msgid "Swipe up to create a message"
+#~ msgstr "Scorrere verso l'alto per creare un messaggio"
+
+#~ msgid "Swipe up to add a contact"
+#~ msgstr "Scorrere verso l'alto per aggiungere un contatto"
+
+#~ msgid "Long swipe from the left edge to open the Today scope"
+#~ msgstr "Scorrere lentamente dal bordo sinistro per aprire la scope Oggi"
+
+#~ msgid "Hover your mouse on the right edge to view your open apps"
+#~ msgstr ""
+#~ "Posizionare il mouse sul bordo destro per vedere le applicazioni aperte"
+
+#~ msgid "Super + 0 to 9"
+#~ msgstr "Super + 0 fino a 9"
+
+#~ msgid "Takes a screenshot of a window."
+#~ msgstr "Cattura una schermata di una finestra"

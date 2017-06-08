@@ -1,0 +1,1356 @@
+# Turkish translation for unity
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the unity package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-03-21 10:58+0000\n"
+"PO-Revision-Date: 2015-03-22 15:56+0000\n"
+"Last-Translator: Arda Ünlü <aarda.uunlu@gmail.com>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-03-24 06:14+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+
+#: plugins/LightDM/Greeter.cpp:188
+msgid "Password: "
+msgstr "Parola: "
+
+#: plugins/LightDM/Greeter.cpp:203
+msgid "Username"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:242
+msgid "Failed to authenticate"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:244
+msgid "Invalid password, please try again"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:254
+msgid "Log In"
+msgstr "Giriş Yap"
+
+#: plugins/LightDM/Greeter.cpp:254
+msgid "Retry"
+msgstr "Tekrar Dene"
+
+#: plugins/LightDM/UsersModel.cpp:152
+msgid "Login"
+msgstr ""
+
+#: plugins/LightDM/UsersModel.cpp:160
+msgid "Guest Session"
+msgstr ""
+
+#: plugins/Unity/Launcher/launcheritem.cpp:49
+#: plugins/Unity/Launcher/launcheritem.cpp:123
+msgid "Pin shortcut"
+msgstr "Kısayolu iğnele"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:55
+msgid "Quit"
+msgstr "Çıkış"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:123
+msgid "Unpin shortcut"
+msgstr "Kısayol iğnesini kaldır"
+
+#: qml/Components/Dialogs.qml:176
+msgctxt "Title: Lock/Log out dialog"
+msgid "Log out"
+msgstr "Oturumu kapat"
+
+#: qml/Components/Dialogs.qml:177
+msgid "Are you sure you want to log out?"
+msgstr "Oturumu kapatmak istediğinize emin misiniz?"
+
+#: qml/Components/Dialogs.qml:180
+msgctxt "Button: Lock the system"
+msgid "Lock"
+msgstr "Kilitle"
+
+#: qml/Components/Dialogs.qml:191
+msgctxt "Button: Log out from the system"
+msgid "Log Out"
+msgstr "Oturumu Kapat"
+
+#: qml/Components/Dialogs.qml:199 qml/Components/Dialogs.qml:264
+#: qml/Dash/DashPageHeader.qml:324 qml/Greeter/NarrowView.qml:222
+#: qml/Wizard/Pages/passcode-confirm.qml:32
+#: qml/Wizard/Pages/passcode-set.qml:32
+msgid "Cancel"
+msgstr "İptal"
+
+#: qml/Components/Dialogs.qml:211
+msgctxt "Title: Reboot dialog"
+msgid "Reboot"
+msgstr "Yeniden başlat"
+
+#: qml/Components/Dialogs.qml:212
+msgid "Are you sure you want to reboot?"
+msgstr "Bilgisayarı yeniden başlatmak istediğinize emin misiniz?"
+
+#: qml/Components/Dialogs.qml:215
+msgid "No"
+msgstr "Hayır"
+
+#: qml/Components/Dialogs.qml:223
+msgid "Yes"
+msgstr "Evet"
+
+#: qml/Components/Dialogs.qml:239
+msgctxt "Title: Power off/Restart dialog"
+msgid "Power"
+msgstr "Güç"
+
+#: qml/Components/Dialogs.qml:240
+msgid ""
+"Are you sure you would like\n"
+"to power off?"
+msgstr "Bilgisayarı kapatmak istediğinize emin misiniz?"
+
+#: qml/Components/Dialogs.qml:244
+msgctxt "Button: Power off the system"
+msgid "Power off"
+msgstr "Sistemi Kapat"
+
+#: qml/Components/Dialogs.qml:255
+msgctxt "Button: Restart the system"
+msgid "Restart"
+msgstr "Yeniden başlat"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:41
+msgid "Keyboard Shortcuts"
+msgstr "Klavye Kısayolları"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:55
+msgid "Unity 8"
+msgstr "Unity 8"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:62
+msgid "PrtScr"
+msgstr "PrtScr"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:67
+msgid "Takes a screenshot."
+msgstr "Ekran görüntüsü al"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:75
+msgid "Alt + PrtScr"
+msgstr "Alt + PrtScr"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:80
+msgid "Takes a screenshot of the current window."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:88
+msgid "Super + Space"
+msgstr "Super + Space"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:93
+msgid "Switches to next keyboard layout."
+msgstr "Bir sonraki klavye düzenine geçer."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:101
+msgid "Super + Shift + Space"
+msgstr "Super + Shift + Space"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:106
+msgid "Switches to previous keyboard layout."
+msgstr "Önceki klavye düzenine geçer."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:118
+msgid "Launcher"
+msgstr "Başlatıcı"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:125
+msgid "Super (Hold)"
+msgstr "Super (Basılı Tut)"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:130
+msgid "Opens the launcher, displays shortcuts."
+msgstr "Başlatıcıyı açar, kısayolları gösterir."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:138
+msgid "Alt + F1"
+msgstr "Alt + F1"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:143
+msgid "Opens launcher keyboard navigation mode."
+msgstr "Klavye gezinti başlatıcısı modunu açar."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:151
+msgid "Super + Tab"
+msgstr "Super + Tab"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:156
+msgid "Switches applications via the launcher."
+msgstr "Başlatıcı üzerinden uygulamaları değiştirir."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:164
+msgid "Super + 1 to 0"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:169
+msgid "Same as clicking on a launcher icon."
+msgstr "Başlatıcı ikonuna tıklamakla aynıdır."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:177
+msgid "Super + A"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:182
+msgid "Opens the Application Drawer."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:194
+msgid "Scopes"
+msgstr "Kapsamlar"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:201
+msgid "Super (Tap)"
+msgstr "Super (Tıklat)"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:206
+msgid "Opens the Scopes home."
+msgstr "Kapsamları eve açar.  http://cevirsozluk.com/"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:222
+msgid "Switching"
+msgstr "Geçiş"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:229
+msgid "Alt + Tab"
+msgstr "Alt + Tab"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:234
+msgid "Switches between applications."
+msgstr "Uygulamalar arası geçiş yapar."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:242
+msgid "Super + W"
+msgstr "Super + W"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:247
+msgid "Opens the desktop spread."
+msgstr "Masaüstü yayılmasını açar."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:255
+msgid "Cursor Left or Right"
+msgstr "Sol ya da Sağ İmleç"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:260
+msgid "Moves the focus."
+msgstr "Odağı hareket ettirir."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:272
+msgid "Windows"
+msgstr "Pencereler"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:279
+msgid "Ctrl + Super + D"
+msgstr "Ctrl + Super + D"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:284
+msgid "Minimizes all windows."
+msgstr "Tüm pencereleri simge durumuna küçültür."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:292
+msgid "Ctrl + Super + Up"
+msgstr "CTRL + Super +Up"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:297
+msgid "Maximizes the current window."
+msgstr "Geçerli pencere ekranı kaplar."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:305
+msgid "Ctrl + Super + Down"
+msgstr "Ctrl + Super + Aşağı"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:310
+msgid "Minimizes or restores the current window."
+msgstr "Geçerli pencereyi küçültür ya da geri yükler."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:318
+msgid "Ctrl + Super + Left or Right"
+msgstr "Ctrl + Super + sol ya da sağ"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:323
+msgid "Semi-maximizes the current window."
+msgstr "Geçerli pencereyi yarım büyütür."
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:331
+msgid "Alt + F4"
+msgstr "Alt + F4"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:336
+msgid "Closes the current window."
+msgstr "Geçerli pencereyi kapatır."
+
+#: qml/Components/Lockscreen.qml:212 qml/Greeter/NarrowView.qml:242
+msgid "Return to Call"
+msgstr "Çağrıya Dön"
+
+#: qml/Components/Lockscreen.qml:212
+msgid "Emergency Call"
+msgstr "Acil Arama"
+
+#: qml/Components/Lockscreen.qml:245
+msgid "OK"
+msgstr "Tamam"
+
+#: qml/Components/MediaServices/VideoPlayerControls.qml:44
+#, qt-format
+msgid "%1:%2:%3"
+msgstr "%1:%2:%3"
+
+#: qml/Components/MediaServices/VideoPlayerControls.qml:49
+#, qt-format
+msgid "%1:%2"
+msgstr "%1:%2"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:33
+msgid "Apps may have unsaved data:"
+msgstr "Kaydedilmemiş uygulama verileri olabilir"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:60
+msgctxt ""
+"Re-dock means connect the device again to an external screen/mouse/keyboard"
+msgid "Re-dock, save your work and close these apps to continue."
+msgstr ""
+"Yeniden rıhtım, çalışmanızı kaydedin ve devam etmek için bu uygulamaları "
+"kapatın."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:67
+msgid "Or force close now (unsaved data will be lost)."
+msgstr "Zorla kapat (kaydedilmemiş veriler kaybolur)."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:80
+msgid "OK, I will reconnect"
+msgstr "Tamam, yeniden bağlanacağım"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:81
+msgid "Reconnect now!"
+msgstr "Şimdi yeniden bağlan!"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:94
+msgid "Close all"
+msgstr "Tümünü kapat"
+
+#: qml/Components/SharingPicker.qml:54
+msgid "Preview Share Item"
+msgstr "Paylaşılan öğeyi önzile"
+
+#: qml/Components/VirtualTouchPad.qml:317
+msgid ""
+"Your device is now connected to an external display. Use this screen as a "
+"touch pad to interact with the pointer."
+msgstr ""
+"Cihazınız artık harici bir ekrana bağlanır. işaretçisi ile etkileşim için "
+"bir touchpad olarak bu ekranı kullanın."
+
+#: qml/Components/VirtualTouchPad.qml:327
+msgid "Tap left button to click."
+msgstr ""
+
+#: qml/Components/VirtualTouchPad.qml:339
+msgid "Tap right button to right click."
+msgstr ""
+
+#: qml/Components/VirtualTouchPad.qml:351
+msgid "Swipe with two fingers to scroll."
+msgstr ""
+
+#: qml/Components/VirtualTouchPad.qml:396
+msgid "Find more settings in the system settings."
+msgstr ""
+
+#: qml/Dash/DashPageHeader.qml:361
+msgctxt "Button: Open the Ubuntu Store"
+msgid "Store"
+msgstr "Mağaza"
+
+#: qml/Dash/DashPageHeader.qml:368
+msgctxt "Button: Start a search in the current dash scope"
+msgid "Search"
+msgstr "Ara"
+
+#: qml/Dash/DashPageHeader.qml:378
+msgctxt "Button: Show the current dash scope settings"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: qml/Dash/DashPageHeader.qml:385
+msgid "Remove from Favorites"
+msgstr "Sık kullanılanlardan kaldır"
+
+#: qml/Dash/DashPageHeader.qml:385
+msgid "Add to Favorites"
+msgstr "Yer İmlerine Ekle"
+
+#: qml/Dash/FiltersPopover.qml:61
+msgid "Refine your results"
+msgstr "Sonuçlarınızı daraltın"
+
+#: qml/Dash/FiltersPopover.qml:70
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: qml/Dash/GenericScopeView.qml:547 qml/Dash/GenericScopeView.qml:718
+msgid "Show less"
+msgstr "Daha az göster"
+
+#: qml/Dash/GenericScopeView.qml:547
+msgid "Show all"
+msgstr "Tümünü göster"
+
+#: qml/Dash/GenericScopeView.qml:578
+msgctxt "Label: Hint for dash search line edit"
+msgid "Search"
+msgstr "Ara"
+
+#: qml/Dash/PageHeaderExtraPanel.qml:67
+msgid "Recent Searches"
+msgstr "En son arananlar"
+
+#: qml/Dash/PageHeaderExtraPanel.qml:78
+msgid "Clear All"
+msgstr "Tümünü Temizle"
+
+#: qml/Dash/Previews/PreviewActionCombo.qml:36
+msgid "More..."
+msgstr "Daha Fazla..."
+
+#: qml/Dash/Previews/PreviewActionCombo.qml:36
+msgid "Less..."
+msgstr "Daha az.."
+
+#: qml/Dash/Previews/PreviewCommentInput.qml:83
+#: qml/Dash/Previews/PreviewRatingInput.qml:202
+msgid "Send"
+msgstr "Gönder"
+
+#: qml/Dash/Previews/PreviewRatingInput.qml:109
+msgid "Rate this"
+msgstr "Oyla"
+
+#: qml/Dash/Previews/PreviewRatingInput.qml:184
+msgid "Add a review"
+msgstr "Bir inceleme ekle"
+
+#: qml/Dash/PullToRefreshScopeStyle.qml:56
+msgid "Pull to refresh…"
+msgstr "Yenilemek için çekin..."
+
+#: qml/Dash/PullToRefreshScopeStyle.qml:61
+msgid "Release to refresh…"
+msgstr "Yenilemek için bırakın..."
+
+#: qml/Dash/ScopeSettings/ScopeSettingBoolean.qml:43
+msgid "Enable location data"
+msgstr "Konum bilgisi aktif"
+
+#: qml/Dash/ScopesList.qml:146
+msgid "Manage"
+msgstr "Yönet"
+
+#: qml/Dash/ScopesList.qml:187
+msgid "Home"
+msgstr "Ev"
+
+#: qml/Dash/ScopesList.qml:188
+msgid "Also installed"
+msgstr "Ayrıca kurulan"
+
+#: qml/Greeter/CoverPage.qml:127
+msgid "Unlock"
+msgstr "Kilidi Aç"
+
+#: qml/Greeter/DelayedLockscreen.qml:43
+msgid "Device Locked"
+msgstr "Cihaz Kilitli"
+
+#: qml/Greeter/DelayedLockscreen.qml:58
+msgid "You have been locked out due to too many failed passphrase attempts."
+msgstr "Çok sayıda parola hatası yaptığınız için kilitlendiniz."
+
+#: qml/Greeter/DelayedLockscreen.qml:59
+msgid "You have been locked out due to too many failed passcode attempts."
+msgstr "Çok sayıda parola hatası yaptığınız için kilitlendiniz."
+
+#: qml/Greeter/DelayedLockscreen.qml:68
+#, qt-format
+msgid "Please wait %1 minute and then try again…"
+msgid_plural "Please wait %1 minutes and then try again…"
+msgstr[0] "Lütfen %1 dakika bekleyin ve yeniden deneyin..."
+msgstr[1] "Lütfen %1 dakika bekleyin ve yeniden deneyin..."
+
+#: qml/Greeter/Greeter.qml:561
+msgid "Try again"
+msgstr "Tekrar deneyin"
+
+#: qml/Greeter/Greeter.qml:562
+msgid "Enter passphrase to unlock"
+msgstr ""
+
+#: qml/Greeter/Greeter.qml:563
+msgid "Enter passcode to unlock"
+msgstr ""
+
+#: qml/Greeter/NarrowView.qml:242
+msgid "Emergency"
+msgstr "Acil Durum"
+
+#: qml/Greeter/PromptList.qml:126
+msgid "Passphrase"
+msgstr "Parola Metni"
+
+#: qml/Greeter/PromptList.qml:126
+msgid "Passcode"
+msgstr "Parola"
+
+#: qml/Greeter/SessionsList.qml:122
+msgid "Select desktop environment"
+msgstr "Masaüstü ortamını seçin"
+
+#: qml/Launcher/Drawer.qml:93
+msgid "Search…"
+msgstr ""
+
+#: qml/Launcher/Drawer.qml:128
+msgctxt "Apps sorted alphabetically"
+msgid "A-Z"
+msgstr ""
+
+#: qml/Launcher/MoreAppsHeader.qml:55
+msgid "More apps in the store"
+msgstr ""
+
+#: qml/Notifications/NotificationMenuItemFactory.qml:124
+msgid "Show password"
+msgstr "Parolayı göster"
+
+#: qml/Panel/ActiveCallHint.qml:79
+msgid "Tap to return to call..."
+msgstr "Çağrıya dönmek için dokunun..."
+
+#: qml/Panel/ActiveCallHint.qml:92
+msgid "Conference"
+msgstr "Konferans"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:869
+msgid "Nothing is playing"
+msgstr "Hiçbir şey çalmıyor"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:997
+#, qt-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "%1 saat"
+msgstr[1] "%1 saat"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1001
+#, qt-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 dakika"
+msgstr[1] "%1 dakika"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1006
+#, qt-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 saniye"
+msgstr[1] "%1 saniye"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1009
+msgid "0 seconds"
+msgstr "0 saniye"
+
+#. Translators: String like "1 hour, 2 minutes, 3 seconds remaining"
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1011
+#, qt-format
+msgid "%1 remaining"
+msgstr "%1 kaldı"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1017
+msgid "In queue…"
+msgstr "Beklemede..."
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1021
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1023
+msgid "Paused, tap to resume"
+msgstr "Duraklatıldı, devam etmek için dokunun"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1025
+msgid "Canceled"
+msgstr "İptal edildi"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1027
+msgid "Finished"
+msgstr "Bitti"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1029
+msgid "Failed, tap to retry"
+msgstr "Başarısız, yeniden denemek için dokunun"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:151
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:210
+msgctxt "Button: Send a reply message"
+msgid "Send"
+msgstr "Gönder"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:152
+msgctxt "Label: Hint in message indicator line edit"
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:209
+msgctxt "Button: Call back on phone"
+msgid "Call back"
+msgstr "Geri ara"
+
+#: qml/Panel/PanelMenuPage.qml:92
+msgid "Back"
+msgstr ""
+
+#: qml/Stage/SideStage.qml:76
+msgid "Drag using 3 fingers any application from one window to the other"
+msgstr ""
+"Diğer bir pencereden herhangi bir uygulamayı 3 parmağınızı  kullanarak "
+"sürükleyin"
+
+#: qml/Tutorial/TutorialLeftLong.qml:49
+msgid "Long swipe from the left edge to open the Application Drawer"
+msgstr ""
+
+#: qml/Tutorial/TutorialLeft.qml:47
+msgid "Short swipe from the left edge to open the launcher"
+msgstr "Başlatıcıyı açmak için sol kenarından kısa kaydırın"
+
+#: qml/Tutorial/TutorialRight.qml:55
+msgid "Push your mouse against the right edge to view your open apps"
+msgstr "Açık uygulamaları görüntülemek için sağ kenarına karşı farenizi itin"
+
+#: qml/Tutorial/TutorialRight.qml:56
+msgid "Swipe from the right edge to view your open apps"
+msgstr "Açık uygulamaları görüntülemek için sağ kenarından hızlıca kaydırın"
+
+#: qml/Tutorial/TutorialTop.qml:53
+msgid "Swipe from the top edge to access notifications and quick settings"
+msgstr "Bildirimleri ve hızlı ayarlara erişmek için üst kenardan kaydırın"
+
+#: qml/Wizard/Page.qml:54
+msgctxt "Button: Go back one page in the Wizard"
+msgid "Back"
+msgstr "Geri"
+
+#: qml/Wizard/Pages/10-welcome.qml:28
+msgid "Language"
+msgstr "Dil"
+
+#: qml/Wizard/Pages/10-welcome.qml:173 qml/Wizard/Pages/20-keyboard.qml:152
+#: qml/Wizard/Pages/30-wifi.qml:207 qml/Wizard/Pages/40-location.qml:271
+#: qml/Wizard/Pages/50-timezone.qml:271 qml/Wizard/Pages/60-account.qml:65
+#: qml/Wizard/Pages/70-passwd-type.qml:145
+#: qml/Wizard/Pages/75-report-check.qml:84
+#: qml/Wizard/Pages/passcode-desktop.qml:142
+#: qml/Wizard/Pages/password-set.qml:142
+msgid "Next"
+msgstr "Sonraki"
+
+#: qml/Wizard/Pages/20-keyboard.qml:31
+msgid "Select Keyboard"
+msgstr "Klavte seç"
+
+#: qml/Wizard/Pages/20-keyboard.qml:71
+msgid "Keyboard language"
+msgstr "Klavye dili"
+
+#: qml/Wizard/Pages/20-keyboard.qml:93
+msgid "Keyboard layout"
+msgstr "Klavye düzeni"
+
+#: qml/Wizard/Pages/20-keyboard.qml:152 qml/Wizard/Pages/30-wifi.qml:207
+#: qml/Wizard/Pages/60-account.qml:65 qml/Wizard/Pages/77-system-update.qml:152
+#: qml/Wizard/Pages/sim.qml:101
+msgid "Skip"
+msgstr "Atla"
+
+#: qml/Wizard/Pages/30-wifi.qml:31
+msgid "Connect to Wi‑Fi"
+msgstr "Wi-Fi'ye Bağlan"
+
+#: qml/Wizard/Pages/30-wifi.qml:132
+msgid "Connected"
+msgstr "Bağlandı"
+
+#: qml/Wizard/Pages/30-wifi.qml:165
+msgid "Available Wi-Fi networks"
+msgstr "Uygun Wi-Fi ağları"
+
+#: qml/Wizard/Pages/30-wifi.qml:166
+msgid "No available Wi-Fi networks"
+msgstr "Uygun Wi-Fi ağı yok"
+
+#: qml/Wizard/Pages/40-location.qml:27
+msgid "Location Services"
+msgstr "Konum Servisleri"
+
+#: qml/Wizard/Pages/40-location.qml:83
+msgid ""
+"Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
+"(recommended)"
+msgstr ""
+"GPS, Wi-Fi etkin noktaları ve mobil ağ anonim konumunu tespit etmek için "
+"(önerilir)"
+
+#: qml/Wizard/Pages/40-location.qml:105
+#, qt-format
+msgid "By selecting this option you agree to the Nokia HERE %1."
+msgstr "Bu seçeneği seçerek Nokia HERE  %1 kabul ediyorum."
+
+#: qml/Wizard/Pages/40-location.qml:106
+msgctxt "part of: Nokia HERE terms and conditions"
+msgid "terms and conditions"
+msgstr "şartlar ve koşullar"
+
+#: qml/Wizard/Pages/40-location.qml:160
+msgid "GPS only"
+msgstr "Sadece GPS"
+
+#: qml/Wizard/Pages/40-location.qml:214
+msgid "Don't use my location"
+msgstr "Konumumu kullanmayın"
+
+#: qml/Wizard/Pages/40-location.qml:260
+msgid "You can change it later in System Settings."
+msgstr "Sistem Ayarları bölümünde daha sonra değiştirebilirsiniz."
+
+#: qml/Wizard/Pages/50-timezone.qml:30
+msgid "Time Zone"
+msgstr "Zaman Dilimi"
+
+#: qml/Wizard/Pages/50-timezone.qml:182
+msgid "Enter your city"
+msgstr "Şehrinizi girin"
+
+#: qml/Wizard/Pages/60-account.qml:24
+msgid "Personalize Your Device"
+msgstr "Cihazınızı Kişiselleştirin"
+
+#: qml/Wizard/Pages/60-account.qml:48
+msgid "Preferred Name"
+msgstr "Tercih Edilen İsim"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:40
+msgid "Lock Screen"
+msgstr "Ekranı Kilitle"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:102
+msgctxt "Label: Type of security method"
+msgid "Create new password"
+msgstr "Yeni şifre oluştur"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:104
+msgctxt "Label: Type of security method"
+msgid "Create passcode (numbers only)"
+msgstr "Parola oluştur (yalnızca sayılar)"
+
+#: qml/Wizard/Pages/70-passwd-type.qml:106
+msgctxt "Label: Type of security method"
+msgid "No lock code"
+msgstr "Kilit kodu yok"
+
+#: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
+msgid "Privacy Policy"
+msgstr "Gizlilik İlkesi"
+
+#: qml/Wizard/Pages/75-report-check.qml:26
+msgid "Help Us Improve"
+msgstr "Geliştirmek Bize Yardım Et"
+
+#: qml/Wizard/Pages/75-report-check.qml:59
+msgid "Improve system performance by sending us crashes and error reports."
+msgstr ""
+"Çökme ve hata raporları bize göndererek sistem performansını arttırın."
+
+#: qml/Wizard/Pages/75-report-check.qml:60
+msgid "Privacy policy"
+msgstr "Gizlilik politikası"
+
+#: qml/Wizard/Pages/77-system-update.qml:28
+msgid "Update Device"
+msgstr "Cihazı Güncelleştir"
+
+#: qml/Wizard/Pages/77-system-update.qml:55
+msgid ""
+"There is a system update available and ready to install. Afterwards, the "
+"device will automatically restart."
+msgstr ""
+"Bir sistem güncellemesi ve yüklemeye hazır bulunmaktadır. Daha sonra, cihaz "
+"otomatik olarak yeniden başlar."
+
+#: qml/Wizard/Pages/77-system-update.qml:76
+msgctxt "string identifying name of the update"
+msgid "Ubuntu system"
+msgstr "Ubuntu sistem"
+
+#: qml/Wizard/Pages/77-system-update.qml:83
+#, qt-format
+msgctxt "version of the system update"
+msgid "Version %1"
+msgstr "Sürüm %1"
+
+#: qml/Wizard/Pages/77-system-update.qml:102
+msgid "This could take a few minutes..."
+msgstr "Bu işlem birkaç dakika sürebilir ..."
+
+#: qml/Wizard/Pages/77-system-update.qml:116
+msgid "Install and restart now"
+msgstr "Yükle ve yeniden başlat"
+
+#: qml/Wizard/Pages/80-finished.qml:89
+msgid "Welcome to Ubuntu"
+msgstr "Ubuntu'ya Hoş Geldiniz"
+
+#: qml/Wizard/Pages/80-finished.qml:104
+msgid "You are ready to use your device now"
+msgstr "Cihazınızı kullanmaya hazırsınız"
+
+#: qml/Wizard/Pages/80-finished.qml:124
+msgid "Get Started"
+msgstr "Başlarken"
+
+#: qml/Wizard/Pages/here-terms.qml:25
+msgid "Terms & Conditions"
+msgstr "Şartlar ve Koşullar"
+
+#: qml/Wizard/Pages/here-terms.qml:69
+msgid "Your device uses positioning technologies provided by HERE."
+msgstr ""
+"Cihazınız HERE tarafından sağlanan konumlandırma teknolojileri kullanır."
+
+#: qml/Wizard/Pages/here-terms.qml:81
+msgid ""
+"To provide you with positioning services and to improve their quality, HERE "
+"collects information about nearby cell towers and Wi-Fi hotspots around your "
+"current location whenever your position is being found."
+msgstr ""
+"Konumlandırma hizmetleri sağlamak için ve onların kalitesini artırmak için, "
+"HERE pozisyonun bulunduğu zaman bulunduğunuz yerin yakın çevresinde baz "
+"istasyonları ve Wi-Fi noktaları hakkında bilgi toplar."
+
+#: qml/Wizard/Pages/here-terms.qml:93
+msgid ""
+"The information collected is used to analyze the service and to improve the "
+"use of service, but not to identify you personally."
+msgstr ""
+"Toplanan bilgi analiz etmek ve hizmet kullanımını artırmak kullanılır ama "
+"sizi kişisel olarak tanımlamak için kullanılmaz."
+
+#: qml/Wizard/Pages/here-terms.qml:106
+#, qt-format
+msgid "By continuing, you agree to the HERE platform %1 and %2."
+msgstr "Devam ederek, HERE  platformu %1 ve %2 kabul ediyorum."
+
+#: qml/Wizard/Pages/here-terms.qml:107
+msgid "Service Terms"
+msgstr "Servis Koşulları"
+
+#: qml/Wizard/Pages/passcode-confirm.qml:43
+#: qml/Wizard/Pages/passcode-desktop.qml:97
+msgid "Confirm passcode"
+msgstr "Parolayı yinele"
+
+#: qml/Wizard/Pages/passcode-confirm.qml:45
+msgid "Incorrect passcode."
+msgstr "Geçersiz parola."
+
+#: qml/Wizard/Pages/passcode-confirm.qml:45
+msgctxt "Enter the passcode again"
+msgid "Please re-enter."
+msgstr "Lütfen yeniden girin"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:31
+msgid "Lock Screen Passcode"
+msgstr "Kilit Ekranı Parola"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:61
+msgid "Enter 4 numbers to setup your passcode"
+msgstr "Kurulum için 4 numaralı şifrenizi girin"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:77
+#: qml/Wizard/Pages/passcode-set.qml:54
+msgid "Choose passcode"
+msgstr "Parola seç"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:127
+msgid "Passcode too short"
+msgstr "Parola çok kısa"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:129
+msgid "Passcodes match"
+msgstr "Parola eşleşmesi"
+
+#: qml/Wizard/Pages/passcode-desktop.qml:131
+msgid "Passcodes do not match"
+msgstr "Parola eşleşmiyor"
+
+#: qml/Wizard/Pages/passcode-set.qml:62
+msgid "Passcode must be 4 characters long"
+msgstr "Parola 4 karakteden uzun olmalı"
+
+#: qml/Wizard/Pages/password-set.qml:31
+msgid "Lock Screen Password"
+msgstr "Kilit Ekranı Şifresi"
+
+#: qml/Wizard/Pages/password-set.qml:62
+msgid "Enter at least 8 characters"
+msgstr "En az 8 karakter girin"
+
+#: qml/Wizard/Pages/password-set.qml:74
+msgid "Choose password"
+msgstr "Bir parola seçin"
+
+#: qml/Wizard/Pages/password-set.qml:104
+msgid "Confirm password"
+msgstr "Şifreyi onaylayın"
+
+#: qml/Wizard/Pages/sim.qml:27
+msgid "No SIM card installed"
+msgstr "SIM kartı takılı değil"
+
+#: qml/Wizard/Pages/sim.qml:54
+msgid "SIM card added"
+msgstr "SIM kartı eklendi"
+
+#: qml/Wizard/Pages/sim.qml:55
+msgid "You must restart the device to access the mobile network."
+msgstr "Mobil ağa erişmek için cihazınızı yeniden başlatmanız gerekir."
+
+#: qml/Wizard/Pages/sim.qml:59
+msgid "Restart"
+msgstr "Yeniden başlat"
+
+#: qml/Wizard/Pages/sim.qml:78
+msgid "You won’t be able to make calls or use text messaging without a SIM."
+msgstr ""
+"Aramaları yapmak veya SIM olmadan metin mesajlaşma kullanmak mümkün "
+"olmayacaktır."
+
+#: qml/Wizard/Pages/sim.qml:90
+msgid "To proceed with no SIM tap Skip."
+msgstr "SIM kartı olmadan devam etmek için Geç'e basın"
+
+#: qml/Wizard/PasswordMeter.qml:87
+msgid "Password too short"
+msgstr "Parola çok kısa"
+
+#: qml/Wizard/PasswordMeter.qml:89
+msgid "Passwords match"
+msgstr "Parolalar eşlendi"
+
+#: qml/Wizard/PasswordMeter.qml:91
+msgid "Passwords do not match"
+msgstr "Parolalar eşleşmiyor"
+
+#: qml/Wizard/PasswordMeter.qml:95
+msgid "Strong password"
+msgstr "Güçlü parola"
+
+#: qml/Wizard/PasswordMeter.qml:97
+msgid "Fair password"
+msgstr "Orta düzeyde bir parola"
+
+#: qml/Wizard/PasswordMeter.qml:99
+msgid "Weak password"
+msgstr "Zayıf parola"
+
+#: qml/Wizard/PasswordMeter.qml:101
+msgid "Very weak password"
+msgstr "Çok zayıf şifre"
+
+#~ msgid "Confirm"
+#~ msgstr "Onayla"
+
+#~ msgid "Type or say a command"
+#~ msgstr "Bir komut yazın veya söyleyin"
+
+#~ msgid "Loading. Please Wait..."
+#~ msgstr "Yükleniyor. Lütfen Bekleyin..."
+
+#~ msgid "Speak Now..."
+#~ msgstr "Şimdi Konuşun..."
+
+#~ msgid "Speaking..."
+#~ msgstr "Konuşuyor..."
+
+#~ msgid "Search"
+#~ msgstr "Ara"
+
+#~ msgid "Top edge"
+#~ msgstr "Üst kenar"
+
+#~ msgid "Close"
+#~ msgstr "Kapat"
+
+#~ msgid "Swipe up again to close the settings screen"
+#~ msgstr "Ayarlar ekranını kapatmak için tekrar yukarı kaydırın"
+
+#~ msgid "Right edge"
+#~ msgstr "Sağ kenar"
+
+#~ msgid "Left edge"
+#~ msgstr "Sol kenar"
+
+#~ msgid "Swipe from the left to reveal the launcher for quick access to apps"
+#~ msgstr ""
+#~ "Uygulamalara hızlı erişim çalıştırıcısını açmak için sol kenarı sürükleyin"
+
+#~ msgid "Well done"
+#~ msgstr "Tebrikler"
+
+#~ msgid "Try swiping from the top edge to access the indicators"
+#~ msgstr "Bildiricilere erişmek için üst kenarı sürükleyin"
+
+#~ msgid "Try swiping from the right edge to unlock the phone"
+#~ msgstr "Kilidi açmak için sağ kenardan sürüklemeyi deneyin"
+
+#~ msgid "Skip intro"
+#~ msgstr "Tanıtımı geç"
+
+#~ msgid "See less"
+#~ msgstr "Daha azını gör"
+
+#~ msgid ""
+#~ "You have now mastered the edge gestures and can start using the "
+#~ "phone<br><br>Tap on the screen to start"
+#~ msgstr ""
+#~ "Kenar haraketlerini öğrendiniz ve telefonu kullanmaya "
+#~ "başlayabilirsiniz<br><br>Başlamak için ekrana dokunun"
+
+#~ msgid "See all"
+#~ msgstr "Tümünü gör"
+
+#~ msgid "Done"
+#~ msgstr "Bitti"
+
+#~ msgid "Store"
+#~ msgstr "Mağaza"
+
+#~ msgid "Unlock SIM"
+#~ msgstr "SIM kilidini aç"
+
+#~ msgid "Sorry, incorrect passphrase"
+#~ msgstr "Üzgünüm, hatalı parola"
+
+#~ msgid "Sorry, incorrect passcode"
+#~ msgstr "Üzgünüm, hatalı parola"
+
+#, qt-format
+#~ msgid "Sorry, incorrect %1"
+#~ msgstr "Üzgünüm, hatalı %1"
+
+#~ msgid "Sorry, incorrect passphrase."
+#~ msgstr "Üzgünüm, hatalı parola."
+
+#~ msgid "Sorry, incorrect passcode."
+#~ msgstr "Üzgünüm, hatalı parola."
+
+#~ msgid "This will be your last attempt."
+#~ msgstr "Bu son denemeniz olacak."
+
+#~ msgid ""
+#~ "If passphrase is entered incorrectly, your phone will conduct a factory "
+#~ "reset and all personal data will be deleted."
+#~ msgstr ""
+#~ "Eğer hatalı parola girilirse, telefonunuz fabrika ayarlarına dönecek ve tüm "
+#~ "kişisel verileriniz silinecek."
+
+#~ msgid ""
+#~ "If passcode is entered incorrectly, your phone will conduct a factory reset "
+#~ "and all personal data will be deleted."
+#~ msgstr ""
+#~ "Eğer hatalı parola girilirse, telefonunuz fabrika ayarlarına dönecek ve tüm "
+#~ "kişisel verileriniz silinecek."
+
+#~ msgid "Reboot"
+#~ msgstr "Yeniden başlat"
+
+#~ msgid "Shut down"
+#~ msgstr "Bilgisayarı Kapat"
+
+#~ msgid "Power"
+#~ msgstr "Güç"
+
+#~ msgid "Log out"
+#~ msgstr "Oturumu kapat"
+
+#~ msgid "Are you sure you want to shut down?"
+#~ msgstr "Kapatmak istediğinize emin misiniz?"
+
+#~ msgid "Power off"
+#~ msgstr "Kapat"
+
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"
+
+#, qt-format
+#~ msgid "Enter %1"
+#~ msgstr "%1 Girin"
+
+#~ msgid "Roaming"
+#~ msgstr "Dolaşım"
+
+#~ msgid "Enter passphrase"
+#~ msgstr "Parolayı girin"
+
+#~ msgid "Please re-enter"
+#~ msgstr "Lütfen yeniden girin"
+
+#~ msgid "Enter passcode"
+#~ msgstr "Parolayı girin"
+
+#~ msgid "Lock security"
+#~ msgstr "Kilitleme güvenliği"
+
+#~ msgid "Add a SIM card and restart your device"
+#~ msgstr "Bir SIM kartı ekleyin ve cihazınızı yeniden başlatın"
+
+#~ msgid "Without it, you won’t be able to make calls or use text messaging."
+#~ msgstr ""
+#~ "Bir kart olmadan arama yapamaz veya metin mesaj gönderimini kullanamazsınız."
+
+#~ msgid "Please select how you’d like to unlock your phone."
+#~ msgstr "Lütfen telefonunuzun kilidini nasıl açmak istediğinizi seçin."
+
+#~ msgid "Hi!"
+#~ msgstr "Merhaba!"
+
+#~ msgid "Welcome to your Ubuntu phone."
+#~ msgstr "Ubuntu telefonunuza hoş geldiniz."
+
+#~ msgid "Let’s get started."
+#~ msgstr "Hadi başlayalım."
+
+#~ msgid "Continue"
+#~ msgstr "Devam Et"
+
+#~ msgid "Available networks…"
+#~ msgstr "Kullanılabilir ağlar..."
+
+#~ msgid "No available networks."
+#~ msgstr "Kullanılabilir ağ yok."
+
+#~ msgid "Location"
+#~ msgstr "Konum"
+
+#~ msgid "Improving your experience"
+#~ msgstr "Deneyiminizi arttırmak"
+
+#~ msgid "You can change your mind later in <b>System Settings</b>."
+#~ msgstr ""
+#~ "Kararınızı daha sonra <b>Sistem Ayarları</b> içerisinden değiştirebilirsiniz."
+
+#~ msgid ""
+#~ "This can be disabled in <b>System Settings</b> under <b>Security &amp; "
+#~ "Privacy</b>"
+#~ msgstr ""
+#~ "Bu <b>Sistem Ayarları</b> içerisindeki <b>Güvenlik ve Gizlilik</b> altından "
+#~ "devre dışı bırakılabilir"
+
+#~ msgid ""
+#~ "Your phone is set up to automatically report errors to Canonical and its "
+#~ "partners, the makers of the operating system."
+#~ msgstr ""
+#~ "Telefonunuz, işletim sisteminin üreticileri olan Canonical ve ortaklarına "
+#~ "hataları otomatik olarak bildirmek üzere yapılandırıldı."
+
+#~ msgid "All done"
+#~ msgstr "Her şey tamam"
+
+#~ msgid "Let the phone detect your location:"
+#~ msgstr "Telefonun konumunuzu bulmasına izin verin:"
+
+#~ msgid ""
+#~ "By selecting this option you agree to the Nokia HERE <a href='#'>terms and "
+#~ "conditions</a>."
+#~ msgstr ""
+#~ "Bu seçeneği işaretleyerek Nokia HERE <a href='#'>koşul ve şartlarını</a>nı "
+#~ "kabul ediyorsunuz."
+
+#~ msgid "Not at all"
+#~ msgstr "Etmiyorum"
+
+#~ msgid "Using GPS only (less accurate)"
+#~ msgstr "Sadece GPS kullanarak (daha az kesinlik)"
+
+#~ msgid "Using GPS, anonymized Wi-Fi and cellular network info (recommended)"
+#~ msgstr ""
+#~ "GPS, anonimleştirilmiş Wi-Fi ve cep telefonu ağı bilgileri kullanarak "
+#~ "(önerilir)"
+
+#~ msgid "Nice work!"
+#~ msgstr "İyi iş!"
+
+#~ msgid "Finish"
+#~ msgstr "Son"
+
+#~ msgid "Confirm passphrase"
+#~ msgstr "Parolayı yinele"
+
+#, qt-format
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
+
+#~ msgid "Choose your passcode"
+#~ msgstr "Parolanızı seçin"
+
+#~ msgid "Passphrase must be 4 characters long"
+#~ msgstr "Parola 4 karakter olmalı"
+
+#~ msgid "Please try again."
+#~ msgstr "Lütfen yeniden deneyin."
+
+#~ msgid "Your phone is now ready to use."
+#~ msgstr "Telefonunuz artık kullanıma hazır."
+
+#, qt-format
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
+
+#~ msgid "Tap to unlock"
+#~ msgstr "Kilidi açmak için dokun"
+
+#~ msgid "Open special menus"
+#~ msgstr "Özel menüleri aç"
+
+#~ msgid "This action does different things for different apps"
+#~ msgstr "Bu hareket farklı uygulamalar için farklı şeyler yapar"
+
+#~ msgid "View all your running tasks."
+#~ msgstr "Çalışan tüm görevleri incele."
+
+#~ msgid "To view open apps"
+#~ msgstr "Açık uygulamaları görmek için"
+
+#~ msgid "Swipe up from the bottom edge."
+#~ msgstr "Aşağıdan yukarı kaydırın."
+
+#~ msgid "Tap here to continue."
+#~ msgstr "Devam  etmek için buraya dokunun."
+
+#~ msgid "Tap here to finish."
+#~ msgstr "Bitirmek için dokun."
+
+#~ msgctxt "Button: Reboot the system"
+#~ msgid "Reboot"
+#~ msgstr "Yeniden başlat"
+
+#~ msgid "Try again."
+#~ msgstr "Yeniden deneyin."
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "Numbers and letters"
+#~ msgstr "Sayı ve harfler"
+
+#~ msgctxt "Button: Shut down the system"
+#~ msgid "Shut down"
+#~ msgstr "Kapat"
+
+#~ msgctxt "Title: Reboot/Shut down dialog"
+#~ msgid "Shut down"
+#~ msgstr "Kapat"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "No security"
+#~ msgstr "Güvenlik yok"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Swipe"
+#~ msgstr "Kaydır"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "4 digits only"
+#~ msgstr "Yalnızca 4 rakam"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Passcode"
+#~ msgstr "Parola"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Passphrase"
+#~ msgstr "Parola Metni"
+
+#~ msgid "%a %H:%M"
+#~ msgstr "%H:%M  %a"
+
+#~ msgid "%a %d %b %H:%M"
+#~ msgstr "%a %b %d\\u2003%H:%M"
+
+#~ msgid "%a %l:%M %p"
+#~ msgstr "%l:%M %p  %a"
+
+#~ msgid "Tomorrow %l:%M %p"
+#~ msgstr "Yarın %l:%M %p"
+
+#~ msgid "%l:%M %p"
+#~ msgstr "%l:%M %p"
+
+#~ msgid "Yesterday %l:%M %p"
+#~ msgstr "Dün %l:%M %p"
+
+#~ msgid "Tomorrow %H:%M"
+#~ msgstr "Yarın %H:%M"
+
+#~ msgid "%H:%M"
+#~ msgstr "%H:%M"
+
+#~ msgid "Yesterday %H:%M"
+#~ msgstr "Dün %H:%M"
+
+#~ msgid "%a %d %b %l:%M %p"
+#~ msgstr "%a %d %b %l:%M %p"
+
+#~ msgctxt "passphrase"
+#~ msgid "Please re-enter"
+#~ msgstr "Lütfen yeniden girin"
+
+#~ msgid "You almost got it!"
+#~ msgstr "Neredeyse yaptınız!"
+
+#~ msgid "Open the launcher"
+#~ msgstr "Başlatıcıyı aç"
+
+#~ msgid "These are the shortcuts to favorite apps"
+#~ msgstr "Bunlar gözde uygulamalarınız için kısayollardır"
+
+#~ msgid "Short swipe from the left edge."
+#~ msgstr "Sol kenardan kısa kaydırma"
+
+#~ msgid "Long swipe from the right edge."
+#~ msgstr "Sağ kenardan uzan kaydırma"
+
+#~ msgid "Call back"
+#~ msgstr "Geri ara"
+
+#~ msgid "Takes a screenshot of a window."
+#~ msgstr "Bir pencerenin ekran görüntüsünü alır."
+
+#~ msgid "Super + 0 to 9"
+#~ msgstr "Super + 0'dan 9'a"
+
+#~ msgid "Long swipe from the left edge to open the Today scope"
+#~ msgstr "Bugün kapsamını açmak için sol kenardan uzun kaydırın"

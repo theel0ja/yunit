@@ -1,0 +1,1317 @@
+# Korean translation for unity
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the unity package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-03-21 10:58+0000\n"
+"PO-Revision-Date: 2014-08-19 13:02+0000\n"
+"Last-Translator: MinSik CHO <Unknown>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2017-03-24 06:13+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+
+#: plugins/LightDM/Greeter.cpp:188
+msgid "Password: "
+msgstr "암호: "
+
+#: plugins/LightDM/Greeter.cpp:203
+msgid "Username"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:242
+msgid "Failed to authenticate"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:244
+msgid "Invalid password, please try again"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:254
+msgid "Log In"
+msgstr ""
+
+#: plugins/LightDM/Greeter.cpp:254
+msgid "Retry"
+msgstr "다시 시도"
+
+#: plugins/LightDM/UsersModel.cpp:152
+msgid "Login"
+msgstr ""
+
+#: plugins/LightDM/UsersModel.cpp:160
+msgid "Guest Session"
+msgstr ""
+
+#: plugins/Unity/Launcher/launcheritem.cpp:49
+#: plugins/Unity/Launcher/launcheritem.cpp:123
+msgid "Pin shortcut"
+msgstr "바로 가기를 고정"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:55
+msgid "Quit"
+msgstr "끝내기"
+
+#: plugins/Unity/Launcher/launcheritem.cpp:123
+msgid "Unpin shortcut"
+msgstr "바로 가기를 고정 해제"
+
+#: qml/Components/Dialogs.qml:176
+msgctxt "Title: Lock/Log out dialog"
+msgid "Log out"
+msgstr "로그아웃"
+
+#: qml/Components/Dialogs.qml:177
+msgid "Are you sure you want to log out?"
+msgstr "정말 로그아웃하시겠습니까?"
+
+#: qml/Components/Dialogs.qml:180
+msgctxt "Button: Lock the system"
+msgid "Lock"
+msgstr "잠그기"
+
+#: qml/Components/Dialogs.qml:191
+msgctxt "Button: Log out from the system"
+msgid "Log Out"
+msgstr "로그아웃"
+
+#: qml/Components/Dialogs.qml:199 qml/Components/Dialogs.qml:264
+#: qml/Dash/DashPageHeader.qml:324 qml/Greeter/NarrowView.qml:222
+#: qml/Wizard/Pages/passcode-confirm.qml:32
+#: qml/Wizard/Pages/passcode-set.qml:32
+msgid "Cancel"
+msgstr "취소"
+
+#: qml/Components/Dialogs.qml:211
+msgctxt "Title: Reboot dialog"
+msgid "Reboot"
+msgstr "다시 시작"
+
+#: qml/Components/Dialogs.qml:212
+msgid "Are you sure you want to reboot?"
+msgstr "정말 컴퓨터를 다시 시작하시겠습니까?"
+
+#: qml/Components/Dialogs.qml:215
+msgid "No"
+msgstr "아니요"
+
+#: qml/Components/Dialogs.qml:223
+msgid "Yes"
+msgstr "예"
+
+#: qml/Components/Dialogs.qml:239
+msgctxt "Title: Power off/Restart dialog"
+msgid "Power"
+msgstr "전원"
+
+#: qml/Components/Dialogs.qml:240
+msgid ""
+"Are you sure you would like\n"
+"to power off?"
+msgstr "정말 컴퓨터를 끄시겠습니까?"
+
+#: qml/Components/Dialogs.qml:244
+msgctxt "Button: Power off the system"
+msgid "Power off"
+msgstr "컴퓨터 끄기"
+
+#: qml/Components/Dialogs.qml:255
+msgctxt "Button: Restart the system"
+msgid "Restart"
+msgstr "다시 시작"
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:41
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:55
+msgid "Unity 8"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:62
+msgid "PrtScr"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:67
+msgid "Takes a screenshot."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:75
+msgid "Alt + PrtScr"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:80
+msgid "Takes a screenshot of the current window."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:88
+msgid "Super + Space"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:93
+msgid "Switches to next keyboard layout."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:101
+msgid "Super + Shift + Space"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:106
+msgid "Switches to previous keyboard layout."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:118
+msgid "Launcher"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:125
+msgid "Super (Hold)"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:130
+msgid "Opens the launcher, displays shortcuts."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:138
+msgid "Alt + F1"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:143
+msgid "Opens launcher keyboard navigation mode."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:151
+msgid "Super + Tab"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:156
+msgid "Switches applications via the launcher."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:164
+msgid "Super + 1 to 0"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:169
+msgid "Same as clicking on a launcher icon."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:177
+msgid "Super + A"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:182
+msgid "Opens the Application Drawer."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:194
+msgid "Scopes"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:201
+msgid "Super (Tap)"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:206
+msgid "Opens the Scopes home."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:222
+msgid "Switching"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:229
+msgid "Alt + Tab"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:234
+msgid "Switches between applications."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:242
+msgid "Super + W"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:247
+msgid "Opens the desktop spread."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:255
+msgid "Cursor Left or Right"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:260
+msgid "Moves the focus."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:272
+msgid "Windows"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:279
+msgid "Ctrl + Super + D"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:284
+msgid "Minimizes all windows."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:292
+msgid "Ctrl + Super + Up"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:297
+msgid "Maximizes the current window."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:305
+msgid "Ctrl + Super + Down"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:310
+msgid "Minimizes or restores the current window."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:318
+msgid "Ctrl + Super + Left or Right"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:323
+msgid "Semi-maximizes the current window."
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:331
+msgid "Alt + F4"
+msgstr ""
+
+#: qml/Components/KeyboardShortcutsOverlay.qml:336
+msgid "Closes the current window."
+msgstr ""
+
+#: qml/Components/Lockscreen.qml:212 qml/Greeter/NarrowView.qml:242
+msgid "Return to Call"
+msgstr "다시 전화하기"
+
+#: qml/Components/Lockscreen.qml:212
+msgid "Emergency Call"
+msgstr "긴급 통화"
+
+#: qml/Components/Lockscreen.qml:245
+msgid "OK"
+msgstr "확인"
+
+#: qml/Components/MediaServices/VideoPlayerControls.qml:44
+#, qt-format
+msgid "%1:%2:%3"
+msgstr ""
+
+#: qml/Components/MediaServices/VideoPlayerControls.qml:49
+#, qt-format
+msgid "%1:%2"
+msgstr ""
+
+#: qml/Components/ModeSwitchWarningDialog.qml:33
+msgid "Apps may have unsaved data:"
+msgstr "프로그램에 저장하지 않은 데이터가 있을 때:"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:60
+msgctxt ""
+"Re-dock means connect the device again to an external screen/mouse/keyboard"
+msgid "Re-dock, save your work and close these apps to continue."
+msgstr "다시 연결합니다. 계속 진행하려면 작업을 저장한 후 앱을 닫아주십시오."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:67
+msgid "Or force close now (unsaved data will be lost)."
+msgstr "강제로 지금 끝냅니다.(저장하지 않은 데이터를 잃게 됩니다.)"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:80
+msgid "OK, I will reconnect"
+msgstr "다시 접속합니다."
+
+#: qml/Components/ModeSwitchWarningDialog.qml:81
+msgid "Reconnect now!"
+msgstr "지급 다시 접속!"
+
+#: qml/Components/ModeSwitchWarningDialog.qml:94
+msgid "Close all"
+msgstr "모두 닫기"
+
+#: qml/Components/SharingPicker.qml:54
+msgid "Preview Share Item"
+msgstr "공유 항목 미리 보기"
+
+#: qml/Components/VirtualTouchPad.qml:317
+msgid ""
+"Your device is now connected to an external display. Use this screen as a "
+"touch pad to interact with the pointer."
+msgstr "장치를 외부 디스플레이에 연결했습니다. 포인터를 사용하려면 화면을 터치 패드로 사용해주십시오."
+
+#: qml/Components/VirtualTouchPad.qml:327
+msgid "Tap left button to click."
+msgstr ""
+
+#: qml/Components/VirtualTouchPad.qml:339
+msgid "Tap right button to right click."
+msgstr ""
+
+#: qml/Components/VirtualTouchPad.qml:351
+msgid "Swipe with two fingers to scroll."
+msgstr ""
+
+#: qml/Components/VirtualTouchPad.qml:396
+msgid "Find more settings in the system settings."
+msgstr ""
+
+#: qml/Dash/DashPageHeader.qml:361
+msgctxt "Button: Open the Ubuntu Store"
+msgid "Store"
+msgstr "상점"
+
+#: qml/Dash/DashPageHeader.qml:368
+msgctxt "Button: Start a search in the current dash scope"
+msgid "Search"
+msgstr "검색"
+
+#: qml/Dash/DashPageHeader.qml:378
+msgctxt "Button: Show the current dash scope settings"
+msgid "Settings"
+msgstr "설정"
+
+#: qml/Dash/DashPageHeader.qml:385
+msgid "Remove from Favorites"
+msgstr "즐겨찾기에서 제거"
+
+#: qml/Dash/DashPageHeader.qml:385
+msgid "Add to Favorites"
+msgstr "즐겨찾기에 추가"
+
+#: qml/Dash/FiltersPopover.qml:61
+msgid "Refine your results"
+msgstr ""
+
+#: qml/Dash/FiltersPopover.qml:70
+msgid "Reset"
+msgstr ""
+
+#: qml/Dash/GenericScopeView.qml:547 qml/Dash/GenericScopeView.qml:718
+msgid "Show less"
+msgstr ""
+
+#: qml/Dash/GenericScopeView.qml:547
+msgid "Show all"
+msgstr ""
+
+#: qml/Dash/GenericScopeView.qml:578
+msgctxt "Label: Hint for dash search line edit"
+msgid "Search"
+msgstr "검색"
+
+#: qml/Dash/PageHeaderExtraPanel.qml:67
+msgid "Recent Searches"
+msgstr ""
+
+#: qml/Dash/PageHeaderExtraPanel.qml:78
+msgid "Clear All"
+msgstr ""
+
+#: qml/Dash/Previews/PreviewActionCombo.qml:36
+msgid "More..."
+msgstr "더 보기..."
+
+#: qml/Dash/Previews/PreviewActionCombo.qml:36
+msgid "Less..."
+msgstr "간단하게..."
+
+#: qml/Dash/Previews/PreviewCommentInput.qml:83
+#: qml/Dash/Previews/PreviewRatingInput.qml:202
+msgid "Send"
+msgstr "보내기"
+
+#: qml/Dash/Previews/PreviewRatingInput.qml:109
+msgid "Rate this"
+msgstr "이 프로그램 평가"
+
+#: qml/Dash/Previews/PreviewRatingInput.qml:184
+msgid "Add a review"
+msgstr "평가 추가"
+
+#: qml/Dash/PullToRefreshScopeStyle.qml:56
+msgid "Pull to refresh…"
+msgstr "당기면 새로 고침..."
+
+#: qml/Dash/PullToRefreshScopeStyle.qml:61
+msgid "Release to refresh…"
+msgstr "놓으면 새로 고침..."
+
+#: qml/Dash/ScopeSettings/ScopeSettingBoolean.qml:43
+msgid "Enable location data"
+msgstr "위치 데이터 사용"
+
+#: qml/Dash/ScopesList.qml:146
+msgid "Manage"
+msgstr "관리"
+
+#: qml/Dash/ScopesList.qml:187
+msgid "Home"
+msgstr "홈"
+
+#: qml/Dash/ScopesList.qml:188
+msgid "Also installed"
+msgstr "설치함"
+
+#: qml/Greeter/CoverPage.qml:127
+msgid "Unlock"
+msgstr "잠금 해제"
+
+#: qml/Greeter/DelayedLockscreen.qml:43
+msgid "Device Locked"
+msgstr "장치가 잠김"
+
+#: qml/Greeter/DelayedLockscreen.qml:58
+msgid "You have been locked out due to too many failed passphrase attempts."
+msgstr "올바르지 않은 암호문을 너무 많이 입력해 장치가 잠겼습니다."
+
+#: qml/Greeter/DelayedLockscreen.qml:59
+msgid "You have been locked out due to too many failed passcode attempts."
+msgstr "올바르지 않은 패스코드를 너무 많이 입력해 장치가 잠겼습니다."
+
+#: qml/Greeter/DelayedLockscreen.qml:68
+#, qt-format
+msgid "Please wait %1 minute and then try again…"
+msgid_plural "Please wait %1 minutes and then try again…"
+msgstr[0] "%1분 정도 기다린 후 다시 시독해주십시오..."
+
+#: qml/Greeter/Greeter.qml:561
+msgid "Try again"
+msgstr ""
+
+#: qml/Greeter/Greeter.qml:562
+msgid "Enter passphrase to unlock"
+msgstr ""
+
+#: qml/Greeter/Greeter.qml:563
+msgid "Enter passcode to unlock"
+msgstr ""
+
+#: qml/Greeter/NarrowView.qml:242
+msgid "Emergency"
+msgstr ""
+
+#: qml/Greeter/PromptList.qml:126
+msgid "Passphrase"
+msgstr ""
+
+#: qml/Greeter/PromptList.qml:126
+msgid "Passcode"
+msgstr ""
+
+#: qml/Greeter/SessionsList.qml:122
+msgid "Select desktop environment"
+msgstr ""
+
+#: qml/Launcher/Drawer.qml:93
+msgid "Search…"
+msgstr ""
+
+#: qml/Launcher/Drawer.qml:128
+msgctxt "Apps sorted alphabetically"
+msgid "A-Z"
+msgstr ""
+
+#: qml/Launcher/MoreAppsHeader.qml:55
+msgid "More apps in the store"
+msgstr ""
+
+#: qml/Notifications/NotificationMenuItemFactory.qml:124
+msgid "Show password"
+msgstr "암호 표시"
+
+#: qml/Panel/ActiveCallHint.qml:79
+msgid "Tap to return to call..."
+msgstr "다시 통화하려면 두드려주십시오."
+
+#: qml/Panel/ActiveCallHint.qml:92
+msgid "Conference"
+msgstr "회의"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:869
+msgid "Nothing is playing"
+msgstr "연주하는 항목 없음"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:997
+#, qt-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "%1시간"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1001
+#, qt-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1분"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1006
+#, qt-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1초"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1009
+msgid "0 seconds"
+msgstr "0초"
+
+#. Translators: String like "1 hour, 2 minutes, 3 seconds remaining"
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1011
+#, qt-format
+msgid "%1 remaining"
+msgstr "%1 남음"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1017
+msgid "In queue…"
+msgstr "대기 중..."
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1021
+msgid "Downloading"
+msgstr "다운로드 중"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1023
+msgid "Paused, tap to resume"
+msgstr "일시 중지하였습니다. 계속하려면 두드려주십시오."
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1025
+msgid "Canceled"
+msgstr "취소함"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1027
+msgid "Finished"
+msgstr "완료함"
+
+#: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1029
+msgid "Failed, tap to retry"
+msgstr "실패, 두드리면 다시 시도합니다."
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:151
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:210
+msgctxt "Button: Send a reply message"
+msgid "Send"
+msgstr "보내기"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:152
+msgctxt "Label: Hint in message indicator line edit"
+msgid "Reply"
+msgstr "답신"
+
+#: qml/Panel/Indicators/MessageMenuItemFactory.qml:209
+msgctxt "Button: Call back on phone"
+msgid "Call back"
+msgstr "부재중 번호로 전화"
+
+#: qml/Panel/PanelMenuPage.qml:92
+msgid "Back"
+msgstr ""
+
+#: qml/Stage/SideStage.qml:76
+msgid "Drag using 3 fingers any application from one window to the other"
+msgstr ""
+
+#: qml/Tutorial/TutorialLeftLong.qml:49
+msgid "Long swipe from the left edge to open the Application Drawer"
+msgstr ""
+
+#: qml/Tutorial/TutorialLeft.qml:47
+msgid "Short swipe from the left edge to open the launcher"
+msgstr ""
+
+#: qml/Tutorial/TutorialRight.qml:55
+msgid "Push your mouse against the right edge to view your open apps"
+msgstr ""
+
+#: qml/Tutorial/TutorialRight.qml:56
+msgid "Swipe from the right edge to view your open apps"
+msgstr ""
+
+#: qml/Tutorial/TutorialTop.qml:53
+msgid "Swipe from the top edge to access notifications and quick settings"
+msgstr ""
+
+#: qml/Wizard/Page.qml:54
+msgctxt "Button: Go back one page in the Wizard"
+msgid "Back"
+msgstr "뒤로"
+
+#: qml/Wizard/Pages/10-welcome.qml:28
+msgid "Language"
+msgstr ""
+
+#: qml/Wizard/Pages/10-welcome.qml:173 qml/Wizard/Pages/20-keyboard.qml:152
+#: qml/Wizard/Pages/30-wifi.qml:207 qml/Wizard/Pages/40-location.qml:271
+#: qml/Wizard/Pages/50-timezone.qml:271 qml/Wizard/Pages/60-account.qml:65
+#: qml/Wizard/Pages/70-passwd-type.qml:145
+#: qml/Wizard/Pages/75-report-check.qml:84
+#: qml/Wizard/Pages/passcode-desktop.qml:142
+#: qml/Wizard/Pages/password-set.qml:142
+msgid "Next"
+msgstr ""
+
+#: qml/Wizard/Pages/20-keyboard.qml:31
+msgid "Select Keyboard"
+msgstr ""
+
+#: qml/Wizard/Pages/20-keyboard.qml:71
+msgid "Keyboard language"
+msgstr ""
+
+#: qml/Wizard/Pages/20-keyboard.qml:93
+msgid "Keyboard layout"
+msgstr ""
+
+#: qml/Wizard/Pages/20-keyboard.qml:152 qml/Wizard/Pages/30-wifi.qml:207
+#: qml/Wizard/Pages/60-account.qml:65 qml/Wizard/Pages/77-system-update.qml:152
+#: qml/Wizard/Pages/sim.qml:101
+msgid "Skip"
+msgstr "건너뛰기"
+
+#: qml/Wizard/Pages/30-wifi.qml:31
+msgid "Connect to Wi‑Fi"
+msgstr "와이파이에 연결"
+
+#: qml/Wizard/Pages/30-wifi.qml:132
+msgid "Connected"
+msgstr ""
+
+#: qml/Wizard/Pages/30-wifi.qml:165
+msgid "Available Wi-Fi networks"
+msgstr ""
+
+#: qml/Wizard/Pages/30-wifi.qml:166
+msgid "No available Wi-Fi networks"
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:27
+msgid "Location Services"
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:83
+msgid ""
+"Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
+"(recommended)"
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:105
+#, qt-format
+msgid "By selecting this option you agree to the Nokia HERE %1."
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:106
+msgctxt "part of: Nokia HERE terms and conditions"
+msgid "terms and conditions"
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:160
+msgid "GPS only"
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:214
+msgid "Don't use my location"
+msgstr ""
+
+#: qml/Wizard/Pages/40-location.qml:260
+msgid "You can change it later in System Settings."
+msgstr ""
+
+#: qml/Wizard/Pages/50-timezone.qml:30
+msgid "Time Zone"
+msgstr ""
+
+#: qml/Wizard/Pages/50-timezone.qml:182
+msgid "Enter your city"
+msgstr ""
+
+#: qml/Wizard/Pages/60-account.qml:24
+msgid "Personalize Your Device"
+msgstr ""
+
+#: qml/Wizard/Pages/60-account.qml:48
+msgid "Preferred Name"
+msgstr ""
+
+#: qml/Wizard/Pages/70-passwd-type.qml:40
+msgid "Lock Screen"
+msgstr ""
+
+#: qml/Wizard/Pages/70-passwd-type.qml:102
+msgctxt "Label: Type of security method"
+msgid "Create new password"
+msgstr ""
+
+#: qml/Wizard/Pages/70-passwd-type.qml:104
+msgctxt "Label: Type of security method"
+msgid "Create passcode (numbers only)"
+msgstr ""
+
+#: qml/Wizard/Pages/70-passwd-type.qml:106
+msgctxt "Label: Type of security method"
+msgid "No lock code"
+msgstr ""
+
+#: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
+msgid "Privacy Policy"
+msgstr ""
+
+#: qml/Wizard/Pages/75-report-check.qml:26
+msgid "Help Us Improve"
+msgstr ""
+
+#: qml/Wizard/Pages/75-report-check.qml:59
+msgid "Improve system performance by sending us crashes and error reports."
+msgstr ""
+
+#: qml/Wizard/Pages/75-report-check.qml:60
+msgid "Privacy policy"
+msgstr ""
+
+#: qml/Wizard/Pages/77-system-update.qml:28
+msgid "Update Device"
+msgstr ""
+
+#: qml/Wizard/Pages/77-system-update.qml:55
+msgid ""
+"There is a system update available and ready to install. Afterwards, the "
+"device will automatically restart."
+msgstr ""
+
+#: qml/Wizard/Pages/77-system-update.qml:76
+msgctxt "string identifying name of the update"
+msgid "Ubuntu system"
+msgstr ""
+
+#: qml/Wizard/Pages/77-system-update.qml:83
+#, qt-format
+msgctxt "version of the system update"
+msgid "Version %1"
+msgstr ""
+
+#: qml/Wizard/Pages/77-system-update.qml:102
+msgid "This could take a few minutes..."
+msgstr ""
+
+#: qml/Wizard/Pages/77-system-update.qml:116
+msgid "Install and restart now"
+msgstr ""
+
+#: qml/Wizard/Pages/80-finished.qml:89
+msgid "Welcome to Ubuntu"
+msgstr ""
+
+#: qml/Wizard/Pages/80-finished.qml:104
+msgid "You are ready to use your device now"
+msgstr ""
+
+#: qml/Wizard/Pages/80-finished.qml:124
+msgid "Get Started"
+msgstr ""
+
+#: qml/Wizard/Pages/here-terms.qml:25
+msgid "Terms & Conditions"
+msgstr "사용 약관"
+
+#: qml/Wizard/Pages/here-terms.qml:69
+msgid "Your device uses positioning technologies provided by HERE."
+msgstr ""
+
+#: qml/Wizard/Pages/here-terms.qml:81
+msgid ""
+"To provide you with positioning services and to improve their quality, HERE "
+"collects information about nearby cell towers and Wi-Fi hotspots around your "
+"current location whenever your position is being found."
+msgstr ""
+
+#: qml/Wizard/Pages/here-terms.qml:93
+msgid ""
+"The information collected is used to analyze the service and to improve the "
+"use of service, but not to identify you personally."
+msgstr ""
+
+#: qml/Wizard/Pages/here-terms.qml:106
+#, qt-format
+msgid "By continuing, you agree to the HERE platform %1 and %2."
+msgstr ""
+
+#: qml/Wizard/Pages/here-terms.qml:107
+msgid "Service Terms"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-confirm.qml:43
+#: qml/Wizard/Pages/passcode-desktop.qml:97
+msgid "Confirm passcode"
+msgstr "패스코드 확인"
+
+#: qml/Wizard/Pages/passcode-confirm.qml:45
+msgid "Incorrect passcode."
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-confirm.qml:45
+msgctxt "Enter the passcode again"
+msgid "Please re-enter."
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-desktop.qml:31
+msgid "Lock Screen Passcode"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-desktop.qml:61
+msgid "Enter 4 numbers to setup your passcode"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-desktop.qml:77
+#: qml/Wizard/Pages/passcode-set.qml:54
+msgid "Choose passcode"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-desktop.qml:127
+msgid "Passcode too short"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-desktop.qml:129
+msgid "Passcodes match"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-desktop.qml:131
+msgid "Passcodes do not match"
+msgstr ""
+
+#: qml/Wizard/Pages/passcode-set.qml:62
+msgid "Passcode must be 4 characters long"
+msgstr ""
+
+#: qml/Wizard/Pages/password-set.qml:31
+msgid "Lock Screen Password"
+msgstr ""
+
+#: qml/Wizard/Pages/password-set.qml:62
+msgid "Enter at least 8 characters"
+msgstr ""
+
+#: qml/Wizard/Pages/password-set.qml:74
+msgid "Choose password"
+msgstr ""
+
+#: qml/Wizard/Pages/password-set.qml:104
+msgid "Confirm password"
+msgstr ""
+
+#: qml/Wizard/Pages/sim.qml:27
+msgid "No SIM card installed"
+msgstr ""
+
+#: qml/Wizard/Pages/sim.qml:54
+msgid "SIM card added"
+msgstr ""
+
+#: qml/Wizard/Pages/sim.qml:55
+msgid "You must restart the device to access the mobile network."
+msgstr ""
+
+#: qml/Wizard/Pages/sim.qml:59
+msgid "Restart"
+msgstr "다시 시작"
+
+#: qml/Wizard/Pages/sim.qml:78
+msgid "You won’t be able to make calls or use text messaging without a SIM."
+msgstr ""
+
+#: qml/Wizard/Pages/sim.qml:90
+msgid "To proceed with no SIM tap Skip."
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:87
+msgid "Password too short"
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:89
+msgid "Passwords match"
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:91
+msgid "Passwords do not match"
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:95
+msgid "Strong password"
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:97
+msgid "Fair password"
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:99
+msgid "Weak password"
+msgstr ""
+
+#: qml/Wizard/PasswordMeter.qml:101
+msgid "Very weak password"
+msgstr ""
+
+#~ msgid "Search"
+#~ msgstr "검색"
+
+#~ msgid "Skip intro"
+#~ msgstr "도입부 건너뛰기"
+
+#~ msgid "Right edge"
+#~ msgstr "오른쪽 끝"
+
+#~ msgid "Close"
+#~ msgstr "닫기"
+
+#~ msgid "Confirm"
+#~ msgstr "확인"
+
+#~ msgid "Well done"
+#~ msgstr "잘하셨습니다."
+
+#~ msgid "Type or say a command"
+#~ msgstr "명령을 입력하거나 말하세요."
+
+#~ msgid "Speak Now..."
+#~ msgstr "지금 말하세요..."
+
+#~ msgid "Speaking..."
+#~ msgstr "말하는 중..."
+
+#~ msgid "See all"
+#~ msgstr "모두 보기"
+
+#~ msgid "Power off"
+#~ msgstr "전원 끄기"
+
+#~ msgid "Done"
+#~ msgstr "완료"
+
+#~ msgid "All"
+#~ msgstr "모두"
+
+#~ msgid "Roaming"
+#~ msgstr "로밍"
+
+#~ msgid "Favorites"
+#~ msgstr "즐겨찾기"
+
+#~ msgid "Store"
+#~ msgstr "장터"
+
+#~ msgid "This will be your last attempt."
+#~ msgstr "마지막 시도입니다."
+
+#~ msgid "Log out"
+#~ msgstr "로그아웃"
+
+#~ msgid "Are you sure you want to shut down?"
+#~ msgstr "정말 컴퓨터를 끄시겠습니까?"
+
+#~ msgid "Reboot"
+#~ msgstr "다시 시작"
+
+#~ msgid "Power"
+#~ msgstr "전원"
+
+#~ msgid "Shut down"
+#~ msgstr "컴퓨터 끄기"
+
+#, qt-format
+#~ msgid "Sorry, incorrect %1"
+#~ msgstr "죄송합니다. %1이(가) 올바르지 않습니다."
+
+#~ msgid "Sorry, incorrect passcode"
+#~ msgstr "죄송합니다. 패스코드가 올바르지 않습니다."
+
+#~ msgid "Settings"
+#~ msgstr "설정"
+
+#~ msgid "Top edge"
+#~ msgstr "윗쪽 가장자리"
+
+#~ msgid "Left edge"
+#~ msgstr "왼쪽 가장자리"
+
+#~ msgid ""
+#~ "You have now mastered the edge gestures and can start using the "
+#~ "phone<br><br>Tap on the screen to start"
+#~ msgstr ""
+#~ "여러분은 가장자리에서 끌어오기 제스쳐를 완벽히 익히셨고 휴대 전화를 사용할 수 있습니다. <br><br> 스크린을 터치해서 시작하세요."
+
+#~ msgid "See less"
+#~ msgstr "간단히 표시"
+
+#~ msgid "Loading. Please Wait..."
+#~ msgstr "불러오는 중 입니다. 짐시 기다려주십시오..."
+
+#~ msgid "Unlock SIM"
+#~ msgstr "심 카드 잠금 해제"
+
+#~ msgid "Sorry, incorrect passcode."
+#~ msgstr "최송합니다. 패스코드가 올바르지 않습니다."
+
+#~ msgid ""
+#~ "If passcode is entered incorrectly, your phone will conduct a factory reset "
+#~ "and all personal data will be deleted."
+#~ msgstr "이번에도 올바르지 않은 패스코드를 입력하면 휴대 전화를 공장 초기화하여 모든 개인 정보를 삭제합니다."
+
+#~ msgid "Try swiping from the top edge to access the indicators"
+#~ msgstr "위쪽 가장자리에서 쓸면 알림에 접근할 수 있습니다."
+
+#~ msgid "Try swiping from the right edge to unlock the phone"
+#~ msgstr "오른쪽 가장자리에서 쓸면 휴대 전화의 잠금을 해제합니다."
+
+#~ msgid "Swipe up again to close the settings screen"
+#~ msgstr "위쪽으로 쓸면 설정 화면을 닫습니다."
+
+#~ msgid "Swipe from the left to reveal the launcher for quick access to apps"
+#~ msgstr "왼쪽에서 쓸면 런처를 표시해 프로그램에 빠르게 접근할 수 있습니다."
+
+#~ msgid "Manage Scopes"
+#~ msgstr "스코프 관리"
+
+#~ msgid "Please re-enter"
+#~ msgstr "다시 입력해주십시오."
+
+#~ msgid "Enter passcode"
+#~ msgstr "패스코드를 입력해주십시오."
+
+#, qt-format
+#~ msgid "Enter %1"
+#~ msgstr "%1 입력"
+
+#~ msgid "Hi!"
+#~ msgstr "안녕!"
+
+#~ msgid "Welcome to your Ubuntu phone."
+#~ msgstr "우분투 폰을 사용해주셔서 감사합니다."
+
+#~ msgid "Let’s get started."
+#~ msgstr "자 시작합니다."
+
+#~ msgid "Continue"
+#~ msgstr "계속"
+
+#~ msgid "Lock security"
+#~ msgstr "보안 잠금"
+
+#~ msgid "Without it, you won’t be able to make calls or use text messaging."
+#~ msgstr "심 카드가 없으면 전화를 하거나 텍스트 메시지를 사용할 수 없습니다."
+
+#~ msgid "Add a SIM card and restart your device"
+#~ msgstr "심 카드를 추가한 후 장치 다시 시작"
+
+#~ msgid "Please select how you’d like to unlock your phone."
+#~ msgstr "전화의 잠긴 상태를 해제할 방법을 선택해주십시오."
+
+#~ msgid "Available networks…"
+#~ msgstr "사용 가능한 네트워크..."
+
+#~ msgid ""
+#~ "By selecting this option you agree to the Nokia HERE <a href='#'>terms and "
+#~ "conditions</a>."
+#~ msgstr "이 옵션을 선택하면 자동으로 <a href='%1'>노키아 HERE 사용 조건에 동의합니다."
+
+#~ msgid "Not at all"
+#~ msgstr "추적하지 않음"
+
+#~ msgid "No available networks."
+#~ msgstr "사용할 수 있는 네트워크가 없습니다."
+
+#~ msgid "Location"
+#~ msgstr "위치"
+
+#~ msgid "Let the phone detect your location:"
+#~ msgstr "사용자 위치 추적 방법:"
+
+#~ msgid "Using GPS only (less accurate)"
+#~ msgstr "GPS만 사용(덜 정확함)"
+
+#~ msgid "Using GPS, anonymized Wi-Fi and cellular network info (recommended)"
+#~ msgstr "GPS와 익명 와이파이 통신사 네트워크를 사용(추천)"
+
+#~ msgid "Improving your experience"
+#~ msgstr "사용자 경험 개선"
+
+#~ msgid "You can change your mind later in <b>System Settings</b>."
+#~ msgstr "언제라도 <b>시스템 설정</b>에서 바꿀 수 있습니다."
+
+#~ msgid ""
+#~ "This can be disabled in <b>System Settings</b> under <b>Security &amp; "
+#~ "Privacy</b>"
+#~ msgstr "이 서비스는 <b>보안 &amp; 사생활 보호</b>에서 언제든 사용하지 않도록 설정할 수 있습니다."
+
+#~ msgid ""
+#~ "Your phone is set up to automatically report errors to Canonical and its "
+#~ "partners, the makers of the operating system."
+#~ msgstr "사용자의 전화를 자동으로 오류 보고를 운영 체제를 만든 캐노니컬 사와 협력사로 보내도록 설정했습니다."
+
+#~ msgid "Nice work!"
+#~ msgstr "잘 하셨습니다!"
+
+#~ msgid "All done"
+#~ msgstr "모두 완료"
+
+#~ msgid "Finish"
+#~ msgstr "완료"
+
+#~ msgid "Your phone is now ready to use."
+#~ msgstr "이제 전화를 사용할 수 있습니다."
+
+#~ msgid "Confirm passphrase"
+#~ msgstr "암호문 확인"
+
+#~ msgid "Sorry, incorrect passphrase."
+#~ msgstr "올바르지 않은 암호문입니다."
+
+#, qt-format
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
+
+#, qt-format
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
+
+#~ msgid "Passphrase must be 4 characters long"
+#~ msgstr "암호문의 최소 길이는 네 문자입니다."
+
+#~ msgid "Please try again."
+#~ msgstr "다시 시도해주십시오."
+
+#~ msgid "Sorry, incorrect passphrase"
+#~ msgstr "죄송합니다. 암호문일 올바르지 않습니다."
+
+#~ msgid "Enter passphrase"
+#~ msgstr "암호문을 입력해주십시오."
+
+#~ msgid ""
+#~ "If passphrase is entered incorrectly, your phone will conduct a factory "
+#~ "reset and all personal data will be deleted."
+#~ msgstr "이번에도 올바르지 않은 암호문을 입력하면 휴대 전화를 공장 초기화하여 모든 개인 정보를 삭제합니다."
+
+#~ msgid "Choose your passcode"
+#~ msgstr "패스코드 선택"
+
+#~ msgid "This action does different things for different apps"
+#~ msgstr "이 동작은 각 프로그램 별로 다르게 동작합니다."
+
+#~ msgid "You almost got it!"
+#~ msgstr "거의 다 되었습니다!"
+
+#~ msgid "Short swipe from the left edge."
+#~ msgstr "왼쪽 가장자리에서 짧게 쓸기"
+
+#~ msgid "Open the launcher"
+#~ msgstr "런처 열기"
+
+#~ msgid "Tap here to continue."
+#~ msgstr "계속하려면 여기를 두드리십시오."
+
+#~ msgid "These are the shortcuts to favorite apps"
+#~ msgstr "자수 사용하는 프로그램의 바로 가기입니다."
+
+#~ msgid "Swipe up from the bottom edge."
+#~ msgstr "아래쪽 가장자리에서 쓸어 올리십시오."
+
+#~ msgid "Open special menus"
+#~ msgstr "특별 메뉴 열기"
+
+#~ msgid "Tap here to finish."
+#~ msgstr "끝내려면 여기를 두드리십시오."
+
+#~ msgid "To view open apps"
+#~ msgstr "열리ㄴ 앱 보기"
+
+#~ msgid "Long swipe from the right edge."
+#~ msgstr "오른쪽 가장자리에서 길게 쓸기"
+
+#~ msgid "Try again."
+#~ msgstr "다시 시도하십시오."
+
+#~ msgid "View all your running tasks."
+#~ msgstr "실행 중인 모든 사용자 작업 보기."
+
+#~ msgid "Tap to unlock"
+#~ msgstr "두드려서 잠금 해제"
+
+#~ msgctxt "Button: Shut down the system"
+#~ msgid "Shut down"
+#~ msgstr "컴퓨터 끄기"
+
+#~ msgctxt "Title: Reboot/Shut down dialog"
+#~ msgid "Shut down"
+#~ msgstr "컴퓨터 끄기"
+
+#~ msgctxt "Button: Reboot the system"
+#~ msgid "Reboot"
+#~ msgstr "다시 시작"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "No security"
+#~ msgstr "보안 없음"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Swipe"
+#~ msgstr "쓸기(스와이프)"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "4 digits only"
+#~ msgstr "4자리만"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Passcode"
+#~ msgstr "패스코드"
+
+#~ msgctxt "Label: Type of security method"
+#~ msgid "Passphrase"
+#~ msgstr "암호문"
+
+#~ msgctxt "Label: Description of security method"
+#~ msgid "Numbers and letters"
+#~ msgstr "숫자와 문자"
+
+#~ msgid "%a %d %b %H:%M"
+#~ msgstr "%d %b %H:%M (%a)"
+
+#~ msgid "%a %H:%M"
+#~ msgstr "%H:%M (%a)"
+
+#~ msgid "%a %l:%M %p"
+#~ msgstr "%p %l:%M (%"
+
+#~ msgid "Tomorrow %l:%M %p"
+#~ msgstr "내일 %p %l:%M"
+
+#~ msgid "%l:%M %p"
+#~ msgstr "%p %I:%M"
+
+#~ msgid "Yesterday %l:%M %p"
+#~ msgstr "어제 %p %I:%M"
+
+#~ msgid "Tomorrow %H:%M"
+#~ msgstr "내일 %H:%M"
+
+#~ msgid "%H:%M"
+#~ msgstr "%H:%M"
+
+#~ msgid "%a %d %b %l:%M %p"
+#~ msgstr "%d %b %p %l:%M (%a)"
+
+#~ msgctxt "passphrase"
+#~ msgid "Please re-enter"
+#~ msgstr "다시 입력해주십시오."
+
+#~ msgid "Yesterday %H:%M"
+#~ msgstr "어제 %H:%M"
+
+#~ msgid "Call back"
+#~ msgstr "부재중 번호로 전화"
