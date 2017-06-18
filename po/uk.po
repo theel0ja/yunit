@@ -25,15 +25,15 @@ msgstr "Пароль: "
 
 #: plugins/LightDM/Greeter.cpp:203
 msgid "Username"
-msgstr ""
+msgstr "Ім'я користувача"
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Помилка входу"
 
 #: plugins/LightDM/Greeter.cpp:244
 msgid "Invalid password, please try again"
-msgstr ""
+msgstr "Неправильний пароль, спробуйте ще раз"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Log In"
@@ -45,11 +45,11 @@ msgstr "Повторити"
 
 #: plugins/LightDM/UsersModel.cpp:152
 msgid "Login"
-msgstr ""
+msgstr "Логін"
 
 #: plugins/LightDM/UsersModel.cpp:160
 msgid "Guest Session"
-msgstr ""
+msgstr "Гостьовий сеанс"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:49
 #: plugins/Unity/Launcher/launcheritem.cpp:123
@@ -132,11 +132,11 @@ msgstr "Перезапустити"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:41
 msgid "Keyboard Shortcuts"
-msgstr "Клавіатурні скорочення"
+msgstr "Гарячі клавіші"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
-msgid "Unity 8"
-msgstr "Unity 8"
+msgid "Yunit"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -144,7 +144,7 @@ msgstr "PrtScr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:67
 msgid "Takes a screenshot."
-msgstr "Зробити знімок екрана."
+msgstr "Зробити скріншот."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:75
 msgid "Alt + PrtScr"
@@ -152,7 +152,7 @@ msgstr "Alt + PrtScr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:80
 msgid "Takes a screenshot of the current window."
-msgstr ""
+msgstr "Зробити скріншот поточного вікна"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:88
 msgid "Super + Space"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:119
 msgid "Starts the Terminal application."
-msgstr ""
+msgstr "Запускає емулятор терміналу."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:131
 msgid "Launcher"
@@ -188,7 +188,7 @@ msgstr "Win (утримування)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:143
 msgid "Opens the launcher, displays shortcuts."
-msgstr "Відкрити меню запуску, показати клавіатурні скорочення."
+msgstr "Відкрити меню запуску, показати гарячі клавіші."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:151
 msgid "Alt + F1"
@@ -204,7 +204,7 @@ msgstr "Win + Tab"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:169
 msgid "Switches applications via the launcher."
-msgstr "Перемкнути програму за допомогою засобу запуску."
+msgstr "Перемикання додатків за допомогою засобу запуску."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:177
 msgid "Super + 1 to 0"
@@ -387,7 +387,7 @@ msgstr "Додаткові параметри можна знайти у «Си�
 #: qml/Dash/DashPageHeader.qml:361
 msgctxt "Button: Open the Ubuntu Store"
 msgid "Store"
-msgstr "Крамниця"
+msgstr "Магазин"
 
 #: qml/Dash/DashPageHeader.qml:368
 msgctxt "Button: Start a search in the current dash scope"
@@ -397,7 +397,7 @@ msgstr "Пошук"
 #: qml/Dash/DashPageHeader.qml:378
 msgctxt "Button: Show the current dash scope settings"
 msgid "Settings"
-msgstr "Параметри"
+msgstr "Налаштування"
 
 #: qml/Dash/DashPageHeader.qml:385
 msgid "Remove from Favorites"
@@ -492,13 +492,13 @@ msgstr "Пристрій заблоковано"
 #: qml/Greeter/DelayedLockscreen.qml:58
 msgid "You have been locked out due to too many failed passphrase attempts."
 msgstr ""
-"Ваш пристрій було заблоковано через перевищення граничної кількості спроб "
+"Ваш пристрій було заблоковано через перевищення кількості спроб "
 "введення пароля."
 
 #: qml/Greeter/DelayedLockscreen.qml:59
 msgid "You have been locked out due to too many failed passcode attempts."
 msgstr ""
-"Ваш пристрій було заблоковано через перевищення граничної кількості спроб "
+"Ваш пристрій було заблоковано через перевищення кількості спроб "
 "введення коду-пароля."
 
 #: qml/Greeter/DelayedLockscreen.qml:68
@@ -515,11 +515,11 @@ msgstr "Повторити спробу"
 
 #: qml/Greeter/Greeter.qml:551
 msgid "Enter passphrase to unlock"
-msgstr ""
+msgstr "Введіть пароль для розблокування"
 
 #: qml/Greeter/Greeter.qml:552
 msgid "Enter passcode to unlock"
-msgstr ""
+msgstr "Введіть код-пароль для розблокування"
 
 #: qml/Greeter/NarrowView.qml:228
 msgid "Emergency"
@@ -548,7 +548,7 @@ msgstr "А-Я"
 
 #: qml/Launcher/MoreAppsHeader.qml:55
 msgid "More apps in the store"
-msgstr "Інші програми можна знайти у крамниці"
+msgstr "Інші програми можна знайти в магазині"
 
 #: qml/Notifications/NotificationMenuItemFactory.qml:124
 msgid "Show password"
@@ -642,7 +642,7 @@ msgstr "Зворотний виклик"
 
 #: qml/Panel/PanelMenuPage.qml:92
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: qml/Stage/SideStage.qml:76
 msgid "Drag using 3 fingers any application from one window to the other"
@@ -650,7 +650,7 @@ msgstr "Пересувайте будь-який додаток за допом�
 
 #: qml/Tutorial/TutorialLeftLong.qml:49
 msgid "Long swipe from the left edge to open the Application Drawer"
-msgstr ""
+msgstr "Виконайте довгий рух пальцем від лівого краю, щоб відкрити Application Drawer"
 
 #: qml/Tutorial/TutorialLeft.qml:47
 msgid "Short swipe from the left edge to open the launcher"
@@ -714,11 +714,11 @@ msgstr "Пропустити"
 
 #: qml/Wizard/Pages/30-wifi.qml:30
 msgid "Connect to Wi‑Fi"
-msgstr "З’єднатися із Wi‑Fi"
+msgstr "Під'єднатися до Wi‑Fi"
 
 #: qml/Wizard/Pages/30-wifi.qml:131
 msgid "Connected"
-msgstr "Під’єднано"
+msgstr "Під'єднано"
 
 #: qml/Wizard/Pages/30-wifi.qml:164
 msgid "Available Wi-Fi networks"
@@ -726,7 +726,7 @@ msgstr "Доступні мережі Wi-Fi"
 
 #: qml/Wizard/Pages/30-wifi.qml:165
 msgid "No available Wi-Fi networks"
-msgstr "Не доступні мережі Wi-Fi"
+msgstr "Немає доступних Wi-Fi мереж"
 
 #: qml/Wizard/Pages/40-location.qml:27
 msgid "Location Services"
@@ -756,7 +756,7 @@ msgstr "Лише GPS"
 
 #: qml/Wizard/Pages/40-location.qml:214
 msgid "Don't use my location"
-msgstr "Не використовувати визначення положення"
+msgstr "Не використовувати моє місцезнаходження"
 
 #: qml/Wizard/Pages/40-location.qml:260
 msgid "You can change it later in System Settings."
@@ -768,7 +768,7 @@ msgstr "Часовий пояс"
 
 #: qml/Wizard/Pages/50-timezone.qml:182
 msgid "Enter your city"
-msgstr "Уведіь Ваше місто"
+msgstr "Уведіть Ваше місто"
 
 #: qml/Wizard/Pages/60-account.qml:24
 msgid "Personalize Your Device"
@@ -876,7 +876,7 @@ msgstr "Невірний код."
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgctxt "Enter the passcode again"
 msgid "Please re-enter."
-msgstr "Уведіть поновій."
+msgstr "Уведіть знову."
 
 #: qml/Wizard/Pages/passcode-desktop.qml:31
 msgid "Lock Screen Passcode"
@@ -921,7 +921,7 @@ msgstr "Виберіть пароль"
 
 #: qml/Wizard/Pages/password-set.qml:104
 msgid "Confirm password"
-msgstr "Схваліть пароль"
+msgstr "Підтвердіть пароль"
 
 #: qml/Wizard/Pages/sim.qml:27
 msgid "No SIM card installed"
@@ -950,7 +950,7 @@ msgstr "Щоб продовжити без SIM картки, натисніть 
 
 #: qml/Wizard/PasswordMeter.qml:87
 msgid "Password too short"
-msgstr "Пароль є надто коротким"
+msgstr "Пароль занадто короткий"
 
 #: qml/Wizard/PasswordMeter.qml:89
 msgid "Passwords match"
@@ -1050,7 +1050,7 @@ msgstr "Дуже слабкий пароль"
 #~ msgstr "Улюблене"
 
 #~ msgid "Store"
-#~ msgstr "Крамниця"
+#~ msgstr "Магазин"
 
 #~ msgid "Power off"
 #~ msgstr "Вимкнути"

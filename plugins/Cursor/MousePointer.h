@@ -32,7 +32,7 @@ class MousePointer : public MirMousePointerInterface {
 public:
     MousePointer(QQuickItem *parent = nullptr);
 
-    void setCursorName(const QString &qtCursorName) override;
+    void setCursorName(const QString &cursorName) override;
     QString cursorName() const override { return m_cursorName; }
 
     void setThemeName(const QString &themeName) override;

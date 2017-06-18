@@ -52,7 +52,7 @@ Rectangle {
                 // Unity 8 section
                 Label {
                     Layout.columnSpan: 2
-                    text: i18n.tr("Unity 8")
+                    text: i18n.tr("Yunit")
                     font.weight: Font.Light
                     color: theme.palette.normal.baseText
                     lineHeight: 1.3

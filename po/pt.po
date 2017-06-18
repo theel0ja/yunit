@@ -135,7 +135,7 @@ msgstr "Atalhos do teclado"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1094,8 +1094,8 @@ msgstr "Palavra-passe muito fraca"
 #~ msgstr "Concluir"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Please try again."
 #~ msgstr "Por favor, tente novamente."
@@ -1134,8 +1134,8 @@ msgstr "Palavra-passe muito fraca"
 #~ msgstr "De modo nenhum"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Tap here to finish."
 #~ msgstr "Toque aqui para finalizar."

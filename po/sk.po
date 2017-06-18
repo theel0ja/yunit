@@ -136,7 +136,7 @@ msgstr "Klávesové skratky"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1216,12 +1216,12 @@ msgstr "Heslo je veľmi slabé"
 #~ msgstr "Prístupová fráza musí mať 4 znaky"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Swipe up for recent calls"
 #~ msgstr "Potiahnuť dohora pre nedávne hovory"

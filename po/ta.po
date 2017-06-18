@@ -21,11 +21,11 @@ msgstr ""
 
 #: plugins/LightDM/Greeter.cpp:188
 msgid "Password: "
-msgstr ""
+msgstr "கடவுச்சொல்: "
 
 #: plugins/LightDM/Greeter.cpp:203
 msgid "Username"
-msgstr ""
+msgstr "பயனர்பெயர்"
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
@@ -33,45 +33,45 @@ msgstr ""
 
 #: plugins/LightDM/Greeter.cpp:244
 msgid "Invalid password, please try again"
-msgstr ""
+msgstr "தவறான கடவுச்சொல், மீண்டும் முயலவும்"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Log In"
-msgstr ""
+msgstr "புகுபதிக"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Retry"
-msgstr ""
+msgstr "மறுமுயற்சி"
 
 #: plugins/LightDM/UsersModel.cpp:152
 msgid "Login"
-msgstr ""
+msgstr "புகு"
 
 #: plugins/LightDM/UsersModel.cpp:160
 msgid "Guest Session"
-msgstr ""
+msgstr "தற்காலிக அமர்வு"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:49
 #: plugins/Unity/Launcher/launcheritem.cpp:123
 msgid "Pin shortcut"
-msgstr ""
+msgstr "தொடுப்பை பூட்டு"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:55
 msgid "Quit"
-msgstr ""
+msgstr "வெளியேறு"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:123
 msgid "Unpin shortcut"
-msgstr ""
+msgstr "தொடுப்பை நீக்கு"
 
 #: qml/Components/Dialogs.qml:176
 msgctxt "Title: Lock/Log out dialog"
 msgid "Log out"
-msgstr ""
+msgstr "வெளியேறு"
 
 #: qml/Components/Dialogs.qml:177
 msgid "Are you sure you want to log out?"
-msgstr "நீங்கள் வெளியேற விரும்புகிறேர்களா ?"
+msgstr "நீங்கள் வெளியேற விரும்புகிறீர்களா ?"
 
 #: qml/Components/Dialogs.qml:180
 msgctxt "Button: Lock the system"
@@ -101,7 +101,7 @@ msgstr "மீள்துவக்க விருப்பமா?"
 
 #: qml/Components/Dialogs.qml:215
 msgid "No"
-msgstr "வேண்டாம்"
+msgstr "இல்லை"
 
 #: qml/Components/Dialogs.qml:223
 msgid "Yes"
@@ -140,175 +140,175 @@ msgstr "யூனிடீ 8"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
-msgstr "திரைப்பிடி"
+msgstr "PrtScr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:67
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "திரைப்பிடிப்பு எடுக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:75
 msgid "Alt + PrtScr"
-msgstr ""
+msgstr "Alt + PrtScr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:80
 msgid "Takes a screenshot of the current window."
-msgstr ""
+msgstr "தற்பொழுதைய சாளரத்தின் திரைபிடிப்பு ஒன்றை எடுக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:88
 msgid "Super + Space"
-msgstr ""
+msgstr "Super + Space"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:93
 msgid "Switches to next keyboard layout."
-msgstr ""
+msgstr "அடுத்த விசைப்பலகை வடிவமைப்புக்கு மாறுகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:101
 msgid "Super + Shift + Space"
-msgstr ""
+msgstr "Super + Shift + Space"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:106
 msgid "Switches to previous keyboard layout."
-msgstr ""
+msgstr "முந்தைய விசைப்பலகை வடிவமைப்புக்கு மாறுகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:114
 msgid "Ctrl + Alt + T"
-msgstr ""
+msgstr "Ctrl + Alt + T"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:119
 msgid "Starts the Terminal application."
-msgstr ""
+msgstr "முனையப் பயன்பாட்டை திறக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:131
 msgid "Launcher"
-msgstr ""
+msgstr "தொடக்கி"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:138
 msgid "Super (Hold)"
-msgstr ""
+msgstr "Super (பிடித்தல்)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:143
 msgid "Opens the launcher, displays shortcuts."
-msgstr ""
+msgstr "தொடக்கியை திறந்து, தொடுப்புகளை காட்டுகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:151
 msgid "Alt + F1"
-msgstr ""
+msgstr "Alt + F1"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:156
 msgid "Opens launcher keyboard navigation mode."
-msgstr ""
+msgstr "தொடக்கியை விசைப்பலகை வழிசெலுத்துதல் நிலையில் திறக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:164
 msgid "Super + Tab"
-msgstr ""
+msgstr "Super + Tab"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:169
 msgid "Switches applications via the launcher."
-msgstr ""
+msgstr "தொடக்கி வழியாக பயன்பாடுகளுக்கிடையே தாவுதல்."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:177
 msgid "Super + 1 to 0"
-msgstr ""
+msgstr "Super + 1 to 0"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:182
 msgid "Same as clicking on a launcher icon."
-msgstr ""
+msgstr "தொடக்கிக் குறியை சொடுக்குவது போன்றது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:190
 msgid "Super + A"
-msgstr ""
+msgstr "Super + A"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:195
 msgid "Opens the Application Drawer."
-msgstr ""
+msgstr "பயன்பாட்டு பட்டியை திறக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:207
 msgid "Scopes"
-msgstr ""
+msgstr "ஸ்கோப்ஸ்"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:214
 msgid "Super (Tap)"
-msgstr ""
+msgstr "Super (தட்டல்)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:219
 msgid "Opens the Scopes home."
-msgstr ""
+msgstr "ஸ்கோப்ஸ் முகப்பை திறக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:235
 msgid "Switching"
-msgstr ""
+msgstr "தாவுதல்"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:242
 msgid "Alt + Tab"
-msgstr ""
+msgstr "Alt + Tab"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:247
 msgid "Switches between applications."
-msgstr ""
+msgstr "பயன்படுகளுக்கிடையே தாவுகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:255
 msgid "Super + W"
-msgstr ""
+msgstr "Super + W"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:260
 msgid "Opens the desktop spread."
-msgstr ""
+msgstr "மேசை விரிப்பை திறக்கிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:268
 msgid "Cursor Left or Right"
-msgstr ""
+msgstr "சுட்டி இடது அல்லது வலது"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:273
 msgid "Moves the focus."
-msgstr ""
+msgstr "முன்னிலையை நகர்த்துகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:285
 msgid "Windows"
-msgstr ""
+msgstr "சாளரங்கள்"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:292
 msgid "Ctrl + Super + D"
-msgstr ""
+msgstr "Ctrl + Super + D"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:297
 msgid "Minimizes all windows."
-msgstr ""
+msgstr "அனைத்து சாளரங்களையும் சிறிதாக்குகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:305
 msgid "Ctrl + Super + Up"
-msgstr ""
+msgstr "Ctrl + Super + Up"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:310
 msgid "Maximizes the current window."
-msgstr ""
+msgstr "தற்பொழுதைய சாளரத்தை பெரிதாக்குகிறது."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:318
 msgid "Ctrl + Super + Down"
-msgstr ""
+msgstr "Ctrl + Super + Down"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:323
 msgid "Minimizes or restores the current window."
-msgstr ""
+msgstr "முன்னிலை சாளரத்தை சிறிதாக்குகிறது அல்லது முன்னிலைப்படுத்துகிறது"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:331
 msgid "Ctrl + Super + Left or Right"
-msgstr ""
+msgstr "Ctrl + Super + Left அல்லது Right"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:336
 msgid "Semi-maximizes the current window."
-msgstr ""
+msgstr "முன்னிலை சாளரத்தை சற்று பெரிதாக்குகிறது"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:344
 msgid "Alt + F4"
-msgstr ""
+msgstr "Alt + F4"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:349
 msgid "Closes the current window."
-msgstr ""
+msgstr "முன்னிலையிலுள்ள சாளரத்தை மூடுகிறது."
 
 #: qml/Components/Lockscreen.qml:212 qml/Greeter/NarrowView.qml:228
 msgid "Return to Call"
-msgstr ""
+msgstr "அழைப்புக்கு திரும்புக"
 
 #: qml/Components/Lockscreen.qml:212
 msgid "Emergency Call"
@@ -316,129 +316,131 @@ msgstr "அவசர அழைப்பு"
 
 #: qml/Components/Lockscreen.qml:245
 msgid "OK"
-msgstr ""
+msgstr "சரி"
 
 #: qml/Components/MediaServices/VideoPlayerControls.qml:44
 #, qt-format
 msgid "%1:%2:%3"
-msgstr ""
+msgstr "%1:%2:%3"
 
 #: qml/Components/MediaServices/VideoPlayerControls.qml:49
 #, qt-format
 msgid "%1:%2"
-msgstr ""
+msgstr "%1:%2"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:33
 msgid "Apps may have unsaved data:"
-msgstr ""
+msgstr "பயன்பாடுகளில் சேமிக்கப்படாத தரவுகள் இருக்கலாம்:"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:60
 msgctxt ""
 "Re-dock means connect the device again to an external screen/mouse/keyboard"
 msgid "Re-dock, save your work and close these apps to continue."
-msgstr ""
+msgstr "தொடர மீண்டும் இணைத்து, உங்களுடைய அலுவல்களை சேமித்து, இப்பயன்பாடுகளை மூடவும்"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:67
 msgid "Or force close now (unsaved data will be lost)."
-msgstr ""
+msgstr "அல்லது கட்டாயமாக மூடவும் (சேமிக்கப்படாத தரவு அழிந்துவிடும்)."
 
 #: qml/Components/ModeSwitchWarningDialog.qml:80
 msgid "OK, I will reconnect"
-msgstr ""
+msgstr "சரி, மீண்டும் இணைக்கிறேன்"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:81
 msgid "Reconnect now!"
-msgstr ""
+msgstr "உடனே மீண்டும் இணை!"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:94
 msgid "Close all"
-msgstr ""
+msgstr "அனைத்தையும் மூடு"
 
 #: qml/Components/SharingPicker.qml:54
 msgid "Preview Share Item"
-msgstr ""
+msgstr "பகிர்வு முன்னோட்டம்"
 
 #: qml/Components/VirtualTouchPad.qml:317
 msgid ""
 "Your device is now connected to an external display. Use this screen as a "
 "touch pad to interact with the pointer."
 msgstr ""
+"உங்கள் கருவி ஒரு வெளிப்புற திரையுடன் இணைக்கப்பட்டுள்ளது. இந்த திரையை "
+"சுட்டியை கையாள்வதற்கான தொடுதிட்டாக பயன்படுத்தவும்."
 
 #: qml/Components/VirtualTouchPad.qml:327
 msgid "Tap left button to click."
-msgstr ""
+msgstr "சொடுக்க இடது விசையை தட்டவும்."
 
 #: qml/Components/VirtualTouchPad.qml:339
 msgid "Tap right button to right click."
-msgstr ""
+msgstr "வலது சொடுக்குக்கு வலது விசையை தட்டவும்."
 
 #: qml/Components/VirtualTouchPad.qml:351
 msgid "Swipe with two fingers to scroll."
-msgstr ""
+msgstr "உருட்ட இருவிரல்களால் தடவவும்."
 
 #: qml/Components/VirtualTouchPad.qml:396
 msgid "Find more settings in the system settings."
-msgstr ""
+msgstr "மேலும் அமைப்புகளை கணிணி அமைப்புகளில் காண்க."
 
 #: qml/Dash/DashPageHeader.qml:361
 msgctxt "Button: Open the Ubuntu Store"
 msgid "Store"
-msgstr ""
+msgstr "அங்காடி"
 
 #: qml/Dash/DashPageHeader.qml:368
 msgctxt "Button: Start a search in the current dash scope"
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 #: qml/Dash/DashPageHeader.qml:378
 msgctxt "Button: Show the current dash scope settings"
 msgid "Settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 #: qml/Dash/DashPageHeader.qml:385
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "பிடித்தவையில் இருந்து நீக்கு"
 
 #: qml/Dash/DashPageHeader.qml:385
 msgid "Add to Favorites"
-msgstr ""
+msgstr "பிடித்தவையில் சேர்"
 
 #: qml/Dash/FiltersPopover.qml:61
 msgid "Refine your results"
-msgstr ""
+msgstr "முடிவுகளைக் குறுக்க"
 
 #: qml/Dash/FiltersPopover.qml:70
 msgid "Reset"
-msgstr ""
+msgstr "மீளமை"
 
 #: qml/Dash/GenericScopeView.qml:547 qml/Dash/GenericScopeView.qml:718
 msgid "Show less"
-msgstr ""
+msgstr "குறைவாக காட்டு"
 
 #: qml/Dash/GenericScopeView.qml:547
 msgid "Show all"
-msgstr ""
+msgstr "அனைத்தையும் காட்டு"
 
 #: qml/Dash/GenericScopeView.qml:578
 msgctxt "Label: Hint for dash search line edit"
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 #: qml/Dash/PageHeaderExtraPanel.qml:67
 msgid "Recent Searches"
-msgstr ""
+msgstr "அன்மைய தேடல்கள்"
 
 #: qml/Dash/PageHeaderExtraPanel.qml:78
 msgid "Clear All"
-msgstr ""
+msgstr "அனைத்தையும் துடை"
 
 #: qml/Dash/Previews/PreviewActionCombo.qml:36
 msgid "More..."
-msgstr ""
+msgstr "மேலும்..."
 
 #: qml/Dash/Previews/PreviewActionCombo.qml:36
 msgid "Less..."
-msgstr ""
+msgstr "குறை..."
 
 #: qml/Dash/Previews/PreviewCommentInput.qml:83
 #: qml/Dash/Previews/PreviewRatingInput.qml:202
@@ -455,215 +457,215 @@ msgstr "ஒரு பரிசீலனையை சேர்"
 
 #: qml/Dash/PullToRefreshScopeStyle.qml:56
 msgid "Pull to refresh…"
-msgstr ""
+msgstr "மீளேற்ற இழுக்கவும்..."
 
 #: qml/Dash/PullToRefreshScopeStyle.qml:61
 msgid "Release to refresh…"
-msgstr ""
+msgstr "மீளேற்ற விடவும்..."
 
 #: qml/Dash/ScopeSettings/ScopeSettingBoolean.qml:43
 msgid "Enable location data"
-msgstr ""
+msgstr "இடத்தகவல்களை ஏற்று"
 
 #: qml/Dash/ScopesList.qml:146
 msgid "Manage"
-msgstr ""
+msgstr "மேலாளு"
 
 #: qml/Dash/ScopesList.qml:187
 msgid "Home"
-msgstr ""
+msgstr "முகப்பு"
 
 #: qml/Dash/ScopesList.qml:188
 msgid "Also installed"
-msgstr ""
+msgstr "மேலும் நிறுவப்பட்டவை"
 
 #: qml/Greeter/CoverPage.qml:127
 msgid "Unlock"
-msgstr ""
+msgstr "பூட்டுநீக்கு"
 
 #: qml/Greeter/DelayedLockscreen.qml:43
 msgid "Device Locked"
-msgstr ""
+msgstr "கருவி பூட்டப்பட்டது"
 
 #: qml/Greeter/DelayedLockscreen.qml:58
 msgid "You have been locked out due to too many failed passphrase attempts."
-msgstr ""
+msgstr "பல தவறான கடவுச்சொற்களை உள்ளிட்டதால் தாங்கள் உட்புக இயலாது."
 
 #: qml/Greeter/DelayedLockscreen.qml:59
 msgid "You have been locked out due to too many failed passcode attempts."
-msgstr ""
+msgstr "பல தவறான கடவு எண்களை உள்ளிட்டதால் தாங்கள் உட்புக இயலாது."
 
 #: qml/Greeter/DelayedLockscreen.qml:68
 #, qt-format
 msgid "Please wait %1 minute and then try again…"
 msgid_plural "Please wait %1 minutes and then try again…"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 நிமிடம் கழித்து மீண்டும் முயலவும்..."
+msgstr[1] "%1 நிமிடங்கள் கழித்து மீண்டும் முயலவும்..."
 
 #: qml/Greeter/Greeter.qml:550
 msgid "Try again"
-msgstr ""
+msgstr "மீண்டும் முயலவும்"
 
 #: qml/Greeter/Greeter.qml:551
 msgid "Enter passphrase to unlock"
-msgstr ""
+msgstr "பூட்டை நீக்க கடவுச்சொல்லை உள்ளிடவும்"
 
 #: qml/Greeter/Greeter.qml:552
 msgid "Enter passcode to unlock"
-msgstr ""
+msgstr "பூட்டை நீக்க கடவு எண்ணை உள்ளிடவும்"
 
 #: qml/Greeter/NarrowView.qml:228
 msgid "Emergency"
-msgstr ""
+msgstr "அவசரம்"
 
 #: qml/Greeter/PromptList.qml:126
 msgid "Passphrase"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 #: qml/Greeter/PromptList.qml:126
 msgid "Passcode"
-msgstr ""
+msgstr "கடவெண்"
 
 #: qml/Greeter/SessionsList.qml:122
 msgid "Select desktop environment"
-msgstr ""
+msgstr "கணிணிச் சூழலை தேர்க"
 
 #: qml/Launcher/Drawer.qml:93
 msgid "Search…"
-msgstr ""
+msgstr "தேடு..."
 
 #: qml/Launcher/Drawer.qml:128
 msgctxt "Apps sorted alphabetically"
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 #: qml/Launcher/MoreAppsHeader.qml:55
 msgid "More apps in the store"
-msgstr ""
+msgstr "அங்காடியில் மேலும் பயன்பாடுகள்"
 
 #: qml/Notifications/NotificationMenuItemFactory.qml:124
 msgid "Show password"
-msgstr ""
+msgstr "கடவுச்சொல்லை காட்டு"
 
 #: qml/Panel/ActiveCallHint.qml:79
 msgid "Tap to return to call..."
-msgstr ""
+msgstr "அழைப்புக்கு திரும்ப தட்டவும்..."
 
 #: qml/Panel/ActiveCallHint.qml:92
 msgid "Conference"
-msgstr ""
+msgstr "கலந்தாய்வு"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:869
 msgid "Nothing is playing"
-msgstr ""
+msgstr "எதுவும் ஓடவில்லை"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:997
 #, qt-format
 msgid "%1 hour"
 msgid_plural "%1 hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 மணி"
+msgstr[1] "%1 மணிகள்"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1001
 #, qt-format
 msgid "%1 minute"
 msgid_plural "%1 minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 நிமிடம்"
+msgstr[1] "%1 நிமிடங்கள்"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1006
 #, qt-format
 msgid "%1 second"
 msgid_plural "%1 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 நொடி"
+msgstr[1] "%1 நொடிகள்"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1009
 msgid "0 seconds"
-msgstr ""
+msgstr "0 நொடிகள்"
 
 #. Translators: String like "1 hour, 2 minutes, 3 seconds remaining"
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1011
 #, qt-format
 msgid "%1 remaining"
-msgstr ""
+msgstr "%1 எஞ்சியுள்ளது"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1017
 msgid "In queue…"
-msgstr ""
+msgstr "வரிசையில்..."
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1021
 msgid "Downloading"
-msgstr ""
+msgstr "இறக்கப்படுகிறது..."
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1023
 msgid "Paused, tap to resume"
-msgstr ""
+msgstr "இடைநிறுத்தப்பட்டது, தொடர தட்டவும்"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1025
 msgid "Canceled"
-msgstr ""
+msgstr "நிறுத்தப்பட்டது"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1027
 msgid "Finished"
-msgstr ""
+msgstr "முடிந்தது"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1029
 msgid "Failed, tap to retry"
-msgstr ""
+msgstr "தோல்வியுற்றது, மீண்டும் முயல தட்டவும்"
 
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:151
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:210
 msgctxt "Button: Send a reply message"
 msgid "Send"
-msgstr ""
+msgstr "அனுப்பு"
 
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:152
 msgctxt "Label: Hint in message indicator line edit"
 msgid "Reply"
-msgstr ""
+msgstr "மறுமொழி"
 
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:209
 msgctxt "Button: Call back on phone"
 msgid "Call back"
-msgstr ""
+msgstr "மீண்டும் அழை"
 
 #: qml/Panel/PanelMenuPage.qml:92
 msgid "Back"
-msgstr ""
+msgstr "பின்செல்"
 
 #: qml/Stage/SideStage.qml:76
 msgid "Drag using 3 fingers any application from one window to the other"
-msgstr ""
+msgstr "எந்த பயன்பாட்டையும் ஒரு சாளரத்திலிருந்து மற்றொன்றுக்கு மூவிரல்களால் இழுக்கவும்"
 
 #: qml/Tutorial/TutorialLeftLong.qml:49
 msgid "Long swipe from the left edge to open the Application Drawer"
-msgstr ""
+msgstr "பயன்பாட்டு இழுப்பறையை திறக்க இடது ஓரத்திலிருந்து நீளமாக தடவவும்"
 
 #: qml/Tutorial/TutorialLeft.qml:47
 msgid "Short swipe from the left edge to open the launcher"
-msgstr ""
+msgstr "பயன்பாட்டு இழுப்பறையை திறக்க இடது ஓரத்திலிருந்து சிறிதாக தடவவும்"
 
 #: qml/Tutorial/TutorialRight.qml:55
 msgid "Push your mouse against the right edge to view your open apps"
-msgstr ""
+msgstr "திறந்திருக்கும் பயன்பாடுகளை காண தங்கள் சுட்டியை வலது ஓரத்திற்கு தள்ளவும்"
 
 #: qml/Tutorial/TutorialRight.qml:56
 msgid "Swipe from the right edge to view your open apps"
-msgstr ""
+msgstr "திறந்திருக்கும் பயன்பாடுகளை காண வலது ஓரத்திலிருந்து தடவவும்"
 
 #: qml/Tutorial/TutorialTop.qml:53
 msgid "Swipe from the top edge to access notifications and quick settings"
-msgstr ""
+msgstr "அறிவிப்புகளையும், துரித அமைப்புகளையும் அடைய மேல் ஓரத்திலிருந்து தடவவும்"
 
 #: qml/Wizard/Page.qml:54
 msgctxt "Button: Go back one page in the Wizard"
 msgid "Back"
-msgstr ""
+msgstr "பின்னே"
 
 #: qml/Wizard/Pages/10-welcome.qml:28
 msgid "Language"
-msgstr ""
+msgstr "மொழி"
 
 #: qml/Wizard/Pages/10-welcome.qml:173 qml/Wizard/Pages/20-keyboard.qml:152
 #: qml/Wizard/Pages/30-wifi.qml:206 qml/Wizard/Pages/40-location.qml:271
@@ -673,143 +675,145 @@ msgstr ""
 #: qml/Wizard/Pages/passcode-desktop.qml:142
 #: qml/Wizard/Pages/password-set.qml:142
 msgid "Next"
-msgstr ""
+msgstr "அடுத்து"
 
 #: qml/Wizard/Pages/20-keyboard.qml:31
 msgid "Select Keyboard"
-msgstr ""
+msgstr "விசைப்பலகையை தேர்க"
 
 #: qml/Wizard/Pages/20-keyboard.qml:71
 msgid "Keyboard language"
-msgstr ""
+msgstr "விசைப்பலகை மொழி"
 
 #: qml/Wizard/Pages/20-keyboard.qml:93
 msgid "Keyboard layout"
-msgstr ""
+msgstr "விசைப்பலகை வடிவமைப்பு"
 
 #: qml/Wizard/Pages/20-keyboard.qml:152 qml/Wizard/Pages/30-wifi.qml:206
 #: qml/Wizard/Pages/60-account.qml:65 qml/Wizard/Pages/sim.qml:101
 msgid "Skip"
-msgstr ""
+msgstr "தவிர்"
 
 #: qml/Wizard/Pages/30-wifi.qml:30
 msgid "Connect to Wi‑Fi"
-msgstr ""
+msgstr "அருகலையுடன் இணை"
 
 #: qml/Wizard/Pages/30-wifi.qml:131
 msgid "Connected"
-msgstr ""
+msgstr "இணைக்கப்பட்டது"
 
 #: qml/Wizard/Pages/30-wifi.qml:164
 msgid "Available Wi-Fi networks"
-msgstr ""
+msgstr "கிடைக்கும் அருகலை பிணையங்கள்"
 
 #: qml/Wizard/Pages/30-wifi.qml:165
 msgid "No available Wi-Fi networks"
-msgstr ""
+msgstr "அருகலை பிணையங்கள் எதுவும் கிடைக்கவில்லை"
 
 #: qml/Wizard/Pages/40-location.qml:27
 msgid "Location Services"
-msgstr ""
+msgstr "இடச்சேவைகள்"
 
 #: qml/Wizard/Pages/40-location.qml:83
 msgid ""
 "Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
 "(recommended)"
 msgstr ""
+"ஜி.பி.எஸ், பகிரலை அல்லது கைப்பேசி பிணையத்தை அடையாளமில்லாமல் பயன்படுத்தி இடத்தை கண்டுபிடிக்கவும் "
+"(பரிந்துரைக்கப்பட்டது)"
 
 #: qml/Wizard/Pages/40-location.qml:105
 #, qt-format
 msgid "By selecting this option you agree to the Nokia HERE %1."
-msgstr ""
+msgstr "இந்த தேர்வைத் தேர்ந்ததன் மூலமாக நீங்கள் நோகியா ஹியர் %1க்கு இணங்குகிறீர்கள்."
 
 #: qml/Wizard/Pages/40-location.qml:106
 msgctxt "part of: Nokia HERE terms and conditions"
 msgid "terms and conditions"
-msgstr ""
+msgstr "விதிமுறைகளும் வரையறைகளும்"
 
 #: qml/Wizard/Pages/40-location.qml:160
 msgid "GPS only"
-msgstr ""
+msgstr "ஜி.பி.எஸ் மட்டும்"
 
 #: qml/Wizard/Pages/40-location.qml:214
 msgid "Don't use my location"
-msgstr ""
+msgstr "என் இடத்தை பயன்படுத்தாதே"
 
 #: qml/Wizard/Pages/40-location.qml:260
 msgid "You can change it later in System Settings."
-msgstr ""
+msgstr "இதை நீங்கள் பிறகு கணிணி அமைப்புகளில் மாற்றிக் கொள்ளலாம்."
 
 #: qml/Wizard/Pages/50-timezone.qml:30
 msgid "Time Zone"
-msgstr ""
+msgstr "நேர மண்டலம்"
 
 #: qml/Wizard/Pages/50-timezone.qml:182
 msgid "Enter your city"
-msgstr ""
+msgstr "உங்கள் நகரத்தை உள்ளிடவும்"
 
 #: qml/Wizard/Pages/60-account.qml:24
 msgid "Personalize Your Device"
-msgstr ""
+msgstr "உங்கள் கருவியை உங்களுக்கேற்ப அமைக்க"
 
 #: qml/Wizard/Pages/60-account.qml:48
 msgid "Preferred Name"
-msgstr ""
+msgstr "விருப்ப பெயர்"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:40
 msgid "Lock Screen"
-msgstr ""
+msgstr "பூட்டுத் திரை"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:102
 msgctxt "Label: Type of security method"
 msgid "Create new password"
-msgstr ""
+msgstr "புதிய கடவுச்சொல்லை உருவாக்கு"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:104
 msgctxt "Label: Type of security method"
 msgid "Create passcode (numbers only)"
-msgstr ""
+msgstr "புதிய கடவெண்ணை உருவாக்கு (எண்கள் மட்டும்)"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:106
 msgctxt "Label: Type of security method"
 msgid "No lock code"
-msgstr ""
+msgstr "பூட்டு உரை இல்லை"
 
 #: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
 msgid "Privacy Policy"
-msgstr ""
+msgstr "தனியுரிமைக் கொள்கை"
 
 #: qml/Wizard/Pages/75-report-check.qml:26
 msgid "Help Us Improve"
-msgstr ""
+msgstr "மேம்படுத்த எங்களுக்கு உதவவும்"
 
 #: qml/Wizard/Pages/75-report-check.qml:59
 msgid "Improve system performance by sending us crashes and error reports."
-msgstr ""
+msgstr "பிழை அறிக்கைகளையும் எதிர்பாராத முடக்கங்களைப் பற்றியும் எங்களுக்கு அனுப்பி முறைமையை மேம்படுத்தவும்."
 
 #: qml/Wizard/Pages/75-report-check.qml:60
 msgid "Privacy policy"
-msgstr ""
+msgstr "தனியுரிமைக் கொள்கை"
 
 #: qml/Wizard/Pages/80-finished.qml:89
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "உபுண்டுவிற்கு நல்வரவு"
 
 #: qml/Wizard/Pages/80-finished.qml:104
 msgid "You are ready to use your device now"
-msgstr ""
+msgstr "உங்கள் கருவியை இப்பொழுது நீங்கள் பயன்படுத்தலாம்"
 
 #: qml/Wizard/Pages/80-finished.qml:124
 msgid "Get Started"
-msgstr ""
+msgstr "துவங்குங்கள்"
 
 #: qml/Wizard/Pages/here-terms.qml:25
 msgid "Terms & Conditions"
-msgstr ""
+msgstr "விதிமுறைகளும் வரையறைகளும்"
 
 #: qml/Wizard/Pages/here-terms.qml:69
 msgid "Your device uses positioning technologies provided by HERE."
-msgstr ""
+msgstr "உங்கள் கருவி ஹியர் வழங்கும் இடஞ்சுட்டி தொழில்நுட்பங்களை பயன்படுத்துகிறது."
 
 #: qml/Wizard/Pages/here-terms.qml:81
 msgid ""
@@ -817,132 +821,137 @@ msgid ""
 "collects information about nearby cell towers and Wi-Fi hotspots around your "
 "current location whenever your position is being found."
 msgstr ""
+"உங்களுக்கு இடஞ்சுட்டி சேவைகளை வழங்கவும் அதன் தரத்தை மேம்படுத்தவும், ஹியர் "
+"தங்களுடைய இடத்தை கண்டுபிடிக்கும் பொழுதெல்லாம் அருகிலுள்ள கைப்பேசி கோபுரங்கள் "
+"மற்றும் பகிரலை நடுவங்கள் பற்றிய தகவலை சேகரிக்கிறது."
 
 #: qml/Wizard/Pages/here-terms.qml:93
 msgid ""
 "The information collected is used to analyze the service and to improve the "
 "use of service, but not to identify you personally."
 msgstr ""
+"சேகரிக்கப்பட்ட தகவல் சேவையை ஆராயவும் சேவைப் பயன்பாட்டை மேம்படுத்தவும் பயன்படுத்தப்படுகிறதே "
+"தவிர உங்களை அடையாளம் காண அல்ல."
 
 #: qml/Wizard/Pages/here-terms.qml:106
 #, qt-format
 msgid "By continuing, you agree to the HERE platform %1 and %2."
-msgstr ""
+msgstr "தொடர்வதன் மூலம் நீங்கள் ஹியர் சேவைத் தள %1 மற்றும் %2 க்கு இணங்குகிறீர்கள்."
 
 #: qml/Wizard/Pages/here-terms.qml:107
 msgid "Service Terms"
-msgstr ""
+msgstr "சேவை விதிமுறைகள்"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:43
 #: qml/Wizard/Pages/passcode-desktop.qml:97
 msgid "Confirm passcode"
-msgstr ""
+msgstr "கடவு எண்ணை உறுதிப்படுத்தவும்"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgid "Incorrect passcode."
-msgstr ""
+msgstr "தவறான கடவு எண்."
 
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgctxt "Enter the passcode again"
 msgid "Please re-enter."
-msgstr ""
+msgstr "மீண்டும் உள்ளிடவும்."
 
 #: qml/Wizard/Pages/passcode-desktop.qml:31
 msgid "Lock Screen Passcode"
-msgstr ""
+msgstr "பூட்டுத் திரை கடவு எண்"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:61
 msgid "Enter 4 numbers to setup your passcode"
-msgstr ""
+msgstr "உங்கள் கடவு எண்ணை அமைக்க 4 எண்களை உள்ளிடவும்"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:77
 #: qml/Wizard/Pages/passcode-set.qml:54
 msgid "Choose passcode"
-msgstr ""
+msgstr "கடவு எண்ணை தேர்க"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:127
 msgid "Passcode too short"
-msgstr ""
+msgstr "கடவு எண் மிகச்சிறியதாக உள்ளது"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:129
 msgid "Passcodes match"
-msgstr ""
+msgstr "கடவு எண்கள் பொருந்துகின்றன"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:131
 msgid "Passcodes do not match"
-msgstr ""
+msgstr "கடவு எண்கள் பொருந்தவில்லை"
 
 #: qml/Wizard/Pages/passcode-set.qml:62
 msgid "Passcode must be 4 characters long"
-msgstr ""
+msgstr "கடவு எண் 4 இலக்க நீளம் கொண்டிருக்க வேண்டும்"
 
 #: qml/Wizard/Pages/password-set.qml:31
 msgid "Lock Screen Password"
-msgstr ""
+msgstr "பூட்டுத் திரை கடவுச்சொல்"
 
 #: qml/Wizard/Pages/password-set.qml:62
 msgid "Enter at least 8 characters"
-msgstr ""
+msgstr "குறைந்தது 8 எழுத்துக்களையாவது உள்ளிடவும்"
 
 #: qml/Wizard/Pages/password-set.qml:74
 msgid "Choose password"
-msgstr ""
+msgstr "கடவுச்சொல்லை தேர்க"
 
 #: qml/Wizard/Pages/password-set.qml:104
 msgid "Confirm password"
-msgstr ""
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்து"
 
 #: qml/Wizard/Pages/sim.qml:27
 msgid "No SIM card installed"
-msgstr ""
+msgstr "சிம் அட்டை நிறுவப்படவில்லை"
 
 #: qml/Wizard/Pages/sim.qml:54
 msgid "SIM card added"
-msgstr ""
+msgstr "சிம் அட்டை நிறுவப்பட்டது"
 
 #: qml/Wizard/Pages/sim.qml:55
 msgid "You must restart the device to access the mobile network."
-msgstr ""
+msgstr "கைப்பேசி பிணையத்தை பயன்படுத்த நீங்கள் கருவியை மீள்துவக்க வேண்டும்"
 
 #: qml/Wizard/Pages/sim.qml:59
 msgid "Restart"
-msgstr ""
+msgstr "மீள்துவக்கு"
 
 #: qml/Wizard/Pages/sim.qml:78
 msgid "You won’t be able to make calls or use text messaging without a SIM."
-msgstr ""
+msgstr "சிம் இல்லாமல் உங்களால் அழைக்கவோ குறுந்தகவல் அனுப்பவோ முடியாது"
 
 #: qml/Wizard/Pages/sim.qml:90
 msgid "To proceed with no SIM tap Skip."
-msgstr ""
+msgstr "சிம் இல்லாமல் தொடர 'தவிர்'ஐ தட்டவும்"
 
 #: qml/Wizard/PasswordMeter.qml:87
 msgid "Password too short"
-msgstr ""
+msgstr "மிகச் சிறிய கடவுச்சொல்"
 
 #: qml/Wizard/PasswordMeter.qml:89
 msgid "Passwords match"
-msgstr ""
+msgstr "கடவுச்சொற்கள் பொருந்துகின்றன"
 
 #: qml/Wizard/PasswordMeter.qml:91
 msgid "Passwords do not match"
-msgstr ""
+msgstr "கடவுச்சொற்கள் பொருந்தவில்லை"
 
 #: qml/Wizard/PasswordMeter.qml:95
 msgid "Strong password"
-msgstr ""
+msgstr "வலுவான கடவுச்சொல்"
 
 #: qml/Wizard/PasswordMeter.qml:97
 msgid "Fair password"
-msgstr ""
+msgstr "நல்ல கடவுச்சொல்"
 
 #: qml/Wizard/PasswordMeter.qml:99
 msgid "Weak password"
-msgstr ""
+msgstr "வலுவற் கடவுச்சொல்"
 
 #: qml/Wizard/PasswordMeter.qml:101
 msgid "Very weak password"
-msgstr ""
+msgstr "மிகவும் வலுவற்ற கடவுச்சொல்"
 
 #~ msgid "Skip intro"
 #~ msgstr "அறிமுகத்தை தவிர்"

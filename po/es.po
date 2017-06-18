@@ -135,7 +135,7 @@ msgstr "Atajos de teclado"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -671,7 +671,7 @@ msgstr ""
 #: qml/Wizard/Page.qml:54
 msgctxt "Button: Go back one page in the Wizard"
 msgid "Back"
-msgstr "Atrás"
+msgstr "Atrás"
 
 #: qml/Wizard/Pages/10-welcome.qml:28
 msgid "Language"
@@ -946,7 +946,7 @@ msgstr "Las contraseñas coinciden"
 
 #: qml/Wizard/PasswordMeter.qml:91
 msgid "Passwords do not match"
-msgstr "Las contraseñas no coinciden"
+msgstr "Las contraseñas no coinciden"
 
 #: qml/Wizard/PasswordMeter.qml:95
 msgid "Strong password"
@@ -1198,8 +1198,8 @@ msgstr "Contraseña muy débil"
 #~ msgstr "Confirme la contraseña"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Choose your passcode"
 #~ msgstr "Elija su código"
@@ -1211,8 +1211,8 @@ msgstr "Contraseña muy débil"
 #~ msgstr "Inténtelo de nuevo."
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Not at all"
 #~ msgstr "De ningún modo"

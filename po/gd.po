@@ -137,7 +137,7 @@ msgstr "Ath-ghoiridean a' mheur-chlàir"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1213,8 +1213,8 @@ msgstr "Facal-faire glè lag"
 #~ msgstr "Dearbhaich an abairt-fhaire"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Please try again."
 #~ msgstr "Feuch ris a-rithist."
@@ -1226,8 +1226,8 @@ msgstr "Facal-faire glè lag"
 #~ msgstr "Feumaidh an abairt-fhaire a bhith 4 caractaran a dh'fhaid"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Open the launcher"
 #~ msgstr "Fosgail an lòinsear"

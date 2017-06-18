@@ -133,7 +133,7 @@ msgstr "Pintasan Papan Kekunci"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1281,11 +1281,11 @@ msgstr "Kata laluan sangat lemah"
 #~ msgstr "Selesai"
 
 #, qt-format
-#~ msgid "〈  %1"
+#~ msgid "〈  %1"
 #~ msgstr "〈  %1"
 
 #, qt-format
-#~ msgid "%1  〉"
+#~ msgid "%1  〉"
 #~ msgstr "%1  〉"
 
 #~ msgid "Choose your passcode"

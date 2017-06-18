@@ -135,7 +135,7 @@ msgstr "Dreceres de teclat"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1198,15 +1198,15 @@ msgstr "La contrasenya és molt dèbil"
 #~ msgstr "Trieu el codi d'accés"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Passphrase must be 4 characters long"
 #~ msgstr "La contrasenya ha de tenir 4 caràcters com a mínim"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Let the phone detect your location:"
 #~ msgstr "Fes que el telèfon detecti la meva ubicació:"

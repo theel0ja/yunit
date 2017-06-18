@@ -133,7 +133,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr ""
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1254,8 +1254,8 @@ msgstr ""
 #~ "Jëfandikoo GPS, wi-fi buñ xamul ak xibaaru mbaalu wootekaay (digalees)"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Improving your experience"
 #~ msgstr "Gënal jëfandiku gi"
@@ -1290,8 +1290,8 @@ msgstr ""
 #~ msgstr "Leegi sa wootekaay noppi na ngir ñu man koo jëfandikoo."
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgctxt "Label: Description of security method"
 #~ msgid "Numbers and letters"

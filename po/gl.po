@@ -133,7 +133,7 @@ msgstr "Atallos do teclado"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1188,8 +1188,8 @@ msgstr "O contrasinal é moi feble"
 #~ msgstr "Confirmar a frase secreta"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Choose your passcode"
 #~ msgstr "Escolla unha clave"
@@ -1205,8 +1205,8 @@ msgstr "O contrasinal é moi feble"
 #~ "Sen ela, non poderá realizar chamadas nin usar a mensaxería de texto."
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Are you sure you want to shut down?"
 #~ msgstr "Confirma que desexa apagar?"

@@ -48,7 +48,7 @@ int main(int argc, const char *argv[])
     QGuiApplication *application = new QGuiApplication(argc, (char**)argv);
 
     QCommandLineParser parser;
-    parser.setApplicationDescription(QStringLiteral("Description: Unity 8 Shell Dash"));
+    parser.setApplicationDescription(QStringLiteral("Description: Yunit Shell Dash"));
     parser.addHelpOption();
 
     QCommandLineOption mousetouchOption(QStringLiteral("mousetouch"),

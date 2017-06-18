@@ -136,7 +136,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr ""
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1107,12 +1107,12 @@ msgstr ""
 #~ msgstr "Vælg din adgangskode"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1 〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1 〉"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈 %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈 %1"
 
 #~ msgid "Sorry, incorrect passphrase."
 #~ msgstr "Beklager, forkert adgangsfrase."

@@ -34,9 +34,9 @@ usage()
 # image files
 ignore_pat="\\.sci$|\\.svg$|\\.png$|\\.jpg$"
 # git/bzr files
-ignore_pat="$ignore_pat|/\\.bzr/|\\.bzrignore$|\\.gitignore$|/\\.bazaar/Makefile$|/\\.bzr-builddeb/default\\.conf$"
+ignore_pat="$ignore_pat|/\\.git/|\\.gitignore$"
 # info files
-ignore_pat="$ignore_pat|/README$|/CODING$|/LGPL_EXCEPTION\\.txt$"
+ignore_pat="$ignore_pat|/README$||/README.md$|/CODING.md$|/LGPL_EXCEPTION\\.txt$"
 # cmake files
 ignore_pat="$ignore_pat|/CMakeLists\\.txt$|\\.cmake$"
 # card creator test files

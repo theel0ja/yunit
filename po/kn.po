@@ -133,7 +133,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr ""
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -948,7 +948,7 @@ msgstr ""
 #~ msgstr "ಒಂದು ಕಮ್ಯಾಂಡ್ ಅನ್ನು ಹೇಳಿ ಅಥವಾ ಟೈಪ್ ಮಾಡಿ"
 
 #~ msgid "Loading. Please Wait..."
-#~ msgstr "ಲೋಡ್ ಆಗುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."
+#~ msgstr "ಲೋಡ್ ಆಗುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."
 
 #~ msgid "Speak Now..."
 #~ msgstr "ಈಗ ಮಾತನಾಡಿ ..."

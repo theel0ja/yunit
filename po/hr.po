@@ -136,7 +136,7 @@ msgstr "Prečaci tipkovnice"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1278,12 +1278,12 @@ msgstr "Vrlo slaba lozinka"
 #~ msgstr "Vaš telefon je sada spreman za korištenje."
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Long swipe from the right edge."
 #~ msgstr "Povuci dugo s desnog ruba"
