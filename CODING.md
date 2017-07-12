@@ -1,7 +1,7 @@
 Building yunit
 ==============
 
-Only Ubuntu 17.04 (zesty) is supported as a developement environment.
+Only Ubuntu 17.04 (zesty) is supported as a development environment.
 
 download source
 ---------------
